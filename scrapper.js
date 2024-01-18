@@ -2,12 +2,10 @@ import puppeteer from "puppeteer"
 import fs from 'fs'
 
 
-
-
 let protimingUrl = "https://www.protiming.fr/runnings/liste?Event_filter="
 
 async function protiming(url){
-    const browser = await puppeteer.launch({headless:"new"})
+    const browser = await puppeteer.launch({headless:"true"})
     let page = await browser.newPage(); 
 
     await page.goto(url)
@@ -17,24 +15,21 @@ async function protiming(url){
     await oneScrappingProcess(page)
 
    // pagination ne marche pas 
-    for (let i = 0; i < paginator.length ; i++){
-        
-        if (i > 2){
-            await Promise.all([
-                paginator[i].click(),
-                page.waitForNavigation() // Adjust waitUntil as needed
-            ]);
-            let html = await page.waitForSelector('html')
-            console.log(await html.evaluate(el => el.textContent))
-            //await oneScrappingProcess(page);
+   let urls = [] 
+   for (let i = 1; i < paginator.length; i++){
+            
+         urls.push(await paginator[i]?.evaluate(el => el.href))
+            
         }
-        
-        
-    }
-    
+    console.log(urls)
+        for (let url of urls){
 
-
+        await page.goto(url)
+        await oneScrappingProcess(page);
+    }  
+   browser.close() 
 }
+
 
 
 async function oneScrappingProcess(page){
@@ -44,7 +39,6 @@ async function oneScrappingProcess(page){
      
     for ( let element of panelElements){
             let raceObj = {}
-            console.log(await element.evaluate(el => el.textContent))
             try{
                 
                 let nameRace = await element?.waitForSelector('.Cuprum')
@@ -64,7 +58,7 @@ async function oneScrappingProcess(page){
                 
                 let placeRace = await element?.waitForSelector('.Cuprum ~ p')
                 let place = await placeRace.evaluate(el => el.textContent)
-                raceObj['place'] = place
+                raceObj['place'] = place.replace(/\s/g, '').trim()
                 result.push(raceObj)
                 
             } catch (error){
@@ -81,6 +75,17 @@ async function oneScrappingProcess(page){
 
 await protiming(protimingUrl)
 process.exit()
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 let resultToJson = await protiming(protimingUrl)
