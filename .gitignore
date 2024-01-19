@@ -1,1 +1,3 @@
-node_modules
+/scrapp/node_modules
+/data_process/.venv 
+*races.json
