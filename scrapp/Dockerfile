@@ -15,4 +15,4 @@ COPY . .
 
 
 # Commande par défaut à exécuter lors du démarrage du conteneur
-CMD ["node", "src_race.js"]
+CMD ["node", "/app/src_race.js"]
