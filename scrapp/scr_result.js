@@ -1,5 +1,6 @@
 import puppeteer from "puppeteer"
 import fs from 'fs'
+import crypto from 'node:crypto'
 
 
 let protimingUrl = "https://www.protiming.fr/Results/liste"
@@ -12,29 +13,7 @@ async function protiming(url){
    let paginator = await page.$$('ul.paginator > li > a')
 
    await oneScrappingProcess(page)
-
-
-   /*
-   let urls = [] 
-   let finalResult = []
-   for (let i = 1; i < paginator.length; i++){
-            
-         urls.push(await paginator[i]?.evaluate(el => el.href))
-            
-        }
-    
-    for (let url of urls){
-
-    await page.goto(url)
-    let result = await oneScrappingProcess(page);
-    finalResult = finalResult.concat(result, finalResult)
-    }  
-
-   let resultJson = JSON.stringify(finalResult)
-   let jsonFileName = new Date().getTime() + 'races.json'
-   fs.writeFileSync(jsonFileName, resultJson)
    browser.close() 
-   */
 }
 
 
@@ -45,9 +24,9 @@ async function oneScrappingProcess(page){
     let html = await page.waitForSelector('html')
     let panelElements = await html.$$('.col-md-12 > a')
      
+    // get all url for race results 
     for ( let element of panelElements){
         try{
-            let raceObj = {}
             let urlResult = await element.evaluate(el => el.href)
             urlResults.push(urlResult)
         } catch (error){
@@ -64,7 +43,10 @@ async function oneScrappingProcess(page){
         result.concat(result, await extractData(url, page))
     }
     
-    console.log(result)
+   let resultJson = JSON.stringify(result)
+   let jsonFileName = new Date().getTime() + 'races.json'
+   fs.writeFileSync(jsonFileName, resultJson)
+   
     
 }
 
@@ -78,7 +60,9 @@ async function extractData(url, page){
         let table = await html.waitForSelector('table#results')
         let cards = await table.$$('tr')
         for (let card of cards){
-            resultList.push(await extractCard(card))
+            let res = await extractCard(card)
+            console.log(res)
+            resultList.push(res)
         }
         return resultList
     } catch(err){
@@ -89,11 +73,12 @@ async function extractData(url, page){
 
 
 async function extractCard(card){
-    let rObj = {}
-
+   
+    
     let columns = await card.$$('td')
+    let rObj = {}
     for (let i = 0; i < columns.length; i++){
-       
+        
        if (i == 0){
         rObj['rank'] = await columns[i].evaluate(el => el.textContent.trim())
        }
@@ -101,8 +86,8 @@ async function extractCard(card){
         rObj['r_time'] = await columns[i].evaluate(el => el.textContent.trim())
        }
        if (i == 2){
-        rObj['name'] = await columns[i].evaluate(el => el.textContent.trim())
-       }
+        
+        rObj['name'] = await columns[i].evaluate(el => el.textContent.trim())}
      
        if (i == 3){
         rObj['club'] = await columns[i].evaluate(el => el.textContent.trim())
@@ -121,9 +106,8 @@ async function extractCard(card){
         rObj['o_time'] = await columns[i].evaluate(el => el.textContent.trim())
        }
     }
-    return rObj
-
-
+return rObj
+    
 }
 
 await protiming(protimingUrl)
