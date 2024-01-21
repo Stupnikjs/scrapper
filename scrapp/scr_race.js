@@ -5,9 +5,10 @@ import fs from 'fs'
 let protimingUrl = "https://www.protiming.fr/runnings/liste?Event_filter="
 
 async function protiming(url){
+
     const browser = await puppeteer.launch({
-        executablePath: '/usr/bin/chromium-browser', 
-        headless: false,
+        //executablePath: '/usr/bin/chromium-browser', 
+        headless: true,
       })
   
    let page = await browser.newPage(); 

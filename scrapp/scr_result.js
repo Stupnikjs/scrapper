@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer"
 import fs from 'fs'
-import crypto from 'node:crypto'
 
+// https://github.com/puppeteer/puppeteer/issues/7917
 
 let protimingUrl = "https://www.protiming.fr/Results/liste"
 
@@ -40,11 +40,11 @@ async function oneScrappingProcess(page){
 
     for ( let url of urlResults){
         console.log(url)
-        result.concat(result, await extractData(url, page))
+        result = result.concat(result, await extractData(url, page))
     }
     
    let resultJson = JSON.stringify(result)
-   let jsonFileName = new Date().getTime() + 'races.json'
+   let jsonFileName = new Date().getTime() + 'results.json'
    fs.writeFileSync(jsonFileName, resultJson)
    
     
