@@ -1,6 +1,7 @@
 # syntax=docker/dockerfile:1
 FROM node:16-alpine
 
+
 # Définit le répertoire de travail
 WORKDIR /app
 
@@ -16,4 +17,4 @@ COPY . .
 
 # Commande par défaut à exécuter lors du démarrage du conteneur
 
-CMD ["node", "app/src_race.js"]
+CMD ["npm", "run", "race"]
