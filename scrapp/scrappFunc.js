@@ -35,6 +35,7 @@ const scrapperFunction = async(params) => {
    let page = await browser.newPage(); 
 
    for ( let url of params.urls){
+        console.log(url)
         await page.goto(url)
         let oneProcessResult = await oneScrappingProcess(page)
         result = result.concat(oneProcessResult)

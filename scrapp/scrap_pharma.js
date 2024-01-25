@@ -23,7 +23,7 @@ async function pharma3000(url){
 
 let urls = [] 
 let totalPages = await pharma3000(pharmaUrl)
-for (let i = 2; i < totalPages - 1; i++){
+for (let i = 40; i < totalPages - 1; i++){
         let url_to = `https://www.pharmacie-cap3000.com/11-medicaments#/page-${i}`
         urls.push(url_to)
 
@@ -51,8 +51,9 @@ console.log(urls)
         pharmaObj['update'] = update
 
         let title = await element.waitForSelector(' .prod-info > .prod-title')
-
         pharmaObj['name'] = await title.evaluate(el => el.textContent)
+
+        
 
 
         return pharmaObj
