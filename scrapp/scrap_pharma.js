@@ -2,34 +2,30 @@ import {scrapperFunction} from "./scrappFunc.js"
 import puppeteer from "puppeteer";
 
 let pharmaUrl = "https://mapharma.fr/12-medicaments"
-/*
-async function pharma3000(url){
 
+async function getUrls(){
+    let urls = []
     const browser = await puppeteer.launch({
         //executablePath: '/usr/bin/chromium-browser', 
-        headless: "new",
+        headless: true,
       })
   
    let page = await browser.newPage(); 
-
-   await page.goto(url)
-   let paginator = await page.$$('.pagination > li ')
-   paginator.pop()
-   let anteLast = paginator.pop()
-
-   let totalPages = await anteLast.evaluate(el => el.textContent)
-   return totalPages
-    }
-
-let urls = [] 
-
-let totalPages = await pharma3000(pharmaUrl)
-for (let i = 40; i < totalPages - 1; i++){
-        let url_to = `https://www.pharmacie-cap3000.com/11-medicaments#/page-${i}`
-        urls.push(url_to)
-
+   let lastpage = await page.waitForSelector('ul.page-list.clearfix.text-sm-center')
+   let links = await lastpage.$$('li > a ')
+   let maxlink = 2
+   for ( let link of links){
+    let vallink = parseInt(await link.evaluate(e => e.textContent))
+    if ( vallink && vallink > maxlink) maxlink = vallink
    }
-*/
+
+   for (let i = 0 ; i < maxlink; i++){
+    urls.push(`https://mapharma.fr/12-medicaments?page=${i}`)
+   }
+
+    return [pharmaUrl].concat(urls) 
+}
+
    async function extractCard(element){
     
     try{
@@ -46,13 +42,15 @@ for (let i = 40; i < totalPages - 1; i++){
 
 }
 
+
+
 let fileName = new Date().getTime() + 'pharma.json'
 
 
 let params = {
     container : "",
     card: '.col-md-6.col-lg-4.productlistos.medos',
-    urls: [pharmaUrl],
+    urls: await getUrls(),
     extractCard: extractCard,
     fileName: fileName
 }
