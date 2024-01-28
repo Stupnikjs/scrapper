@@ -11,8 +11,9 @@ async function getUrls(){
       })
   
    let page = await browser.newPage(); 
-   let lastpage = await page.waitForSelector('ul.page-list.clearfix.text-sm-center')
-   let links = await lastpage.$$('li > a ')
+   page.goto(pharmaUrl)
+   let pagination = await page.waitForSelector('.pagination')
+   let links = await pagination.$$('li > a ')
    let maxlink = 2
    for ( let link of links){
     let vallink = parseInt(await link.evaluate(e => e.textContent))
