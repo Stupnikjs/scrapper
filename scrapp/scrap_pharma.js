@@ -31,7 +31,15 @@ async function getUrls(){
     
     try{
         let pharmaObj = {}
-        console.log(await element.evaluate(el => el.textContent))
+
+
+        let link = await element.waitForSelector('h3 > a')
+        let linkText = await link.evaluate(el => el.href)
+        let linkHtml = await link.evaluate(el => el.textContent ) 
+        pharmaObj['cip13'] = linkText.substring(linkText.length - 18, linkText.length - 5)
+        pharmaObj['name'] = linkHtml
+        
+        
         return pharmaObj
      
     } catch (error){
