@@ -1,4 +1,4 @@
-import {scrapperFunction} from "./scrappFunc.js"
+import {scrapperFunction} from "../scrappFunc.js"
 import puppeteer from "puppeteer";
 
 let pharmaUrl = "https://mapharma.fr/16-bebe-maman"
@@ -47,8 +47,9 @@ async function getUrls(){
         let price = await element.waitForSelector('[itemprop="price"]')
         let priceText = await price.evaluate(el => el.textContent)
         pharmaObj['price'] = priceText
-        
+
         pharmaObj['date'] = new Date().toLocaleDateString()
+
         pharmaObj['img'] = ""
         return pharmaObj
      

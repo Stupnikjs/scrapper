@@ -1,7 +1,7 @@
-import {scrapperFunction} from "./scrappFunc.js"
+import {scrapperFunction} from "../scrappFunc.js"
 import puppeteer from "puppeteer";
 
-let pharmaUrl = "https://mapharma.fr/12-medicaments"
+let pharmaUrl = "https://mapharma.fr/15-hygiene-beaute"
 
 async function getUrls(){
     let urls = []
@@ -21,7 +21,7 @@ async function getUrls(){
    }
 
    for (let i = 0 ; i < maxlink; i++){
-    urls.push(`https://mapharma.fr/12-medicaments?page=${i}`)
+    urls.push(`https://mapharma.fr/15-hygiene-beaute?page=${i}`)
    }
 
     return [pharmaUrl].concat(urls) 
@@ -49,6 +49,7 @@ async function getUrls(){
         pharmaObj['price'] = priceText
 
         pharmaObj['date'] = new Date().toLocaleDateString()
+
         pharmaObj['img'] = ""
         
         return pharmaObj
@@ -64,12 +65,12 @@ async function getUrls(){
 
 
 
-let fileName = new Date().getTime() + 'medication.json'
+let fileName = new Date().getTime() + 'hygene.json'
 
 
 let params = {
     container : "",
-    card: '.col-md-6.col-lg-4.productlistos.medos', //   
+    card: '.col-md-6.col-lg-4.productlistos',
     urls: await getUrls(),
     extractCard: extractCard,
     fileName: fileName
