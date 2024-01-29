@@ -1,7 +1,7 @@
 import {scrapperFunction} from "./scrappFunc.js"
 import puppeteer from "puppeteer";
 
-let pharmaUrl = "https://mapharma.fr/12-medicaments"
+let pharmaUrl = "https://mapharma.fr/15-hygiene-beaute"
 
 async function getUrls(){
     let urls = []
@@ -21,7 +21,7 @@ async function getUrls(){
    }
 
    for (let i = 0 ; i < maxlink; i++){
-    urls.push(`https://mapharma.fr/12-medicaments?page=${i}`)
+    urls.push(`https://mapharma.fr/15-hygiene-beaute?page=${i}`)
    }
 
     return [pharmaUrl].concat(urls) 
@@ -38,7 +38,19 @@ async function getUrls(){
         let linkHtml = await link.evaluate(el => el.textContent ) 
         pharmaObj['cip13'] = linkText.substring(linkText.length - 18, linkText.length - 5)
         pharmaObj['name'] = linkHtml
+        pharmaObj['class'] = 'medication'
         
+        let brand = await element.waitForSelector('[itemprop="brand"]')
+        let brandText = await brand.evaluate(el => el.textContent)
+        pharmaObj['marque'] = brandText
+
+        let price = await element.waitForSelector('[itemprop="price"]')
+        let priceText = await price.evaluate(el => el.textContent)
+        pharmaObj['price'] = priceText
+
+        pharmaObj['date'] = new Date().toLocaleDateString()
+
+        pharmaObj['img'] = ""
         
         return pharmaObj
      
@@ -53,12 +65,12 @@ async function getUrls(){
 
 
 
-let fileName = new Date().getTime() + 'pharma.json'
+let fileName = new Date().getTime() + 'hygene.json'
 
 
 let params = {
     container : "",
-    card: '.col-md-6.col-lg-4.productlistos.medos',
+    card: '.col-md-6.col-lg-4.productlistos',
     urls: await getUrls(),
     extractCard: extractCard,
     fileName: fileName
