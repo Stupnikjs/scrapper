@@ -1,24 +1,28 @@
 import {scrapperFunction} from "./scrappFunc.js"
 import puppeteer from "puppeteer";
 
-const browser = await puppeteer.launch({
-    //executablePath: '/usr/bin/chromium-browser', 
-    headless: true,
-  })
 
-let page = await browser.newPage(); 
-let url = "https://www.protiming.fr/runnings/liste?Event_filter="
-
-await page.goto(url)
-let paginator = await page.$$('ul.paginator > li > a')
-
-let urls = [] 
-
-for (let i = 1; i < paginator.length; i++){
-        
-     urls.push(await paginator[i]?.evaluate(el => el.href))
-        
-    }
+async function extractUrls(){
+    const browser = await puppeteer.launch({
+        //executablePath: '/usr/bin/chromium-browser', 
+        headless: true,
+      })
+    
+    let page = await browser.newPage(); 
+    let url = "https://www.protiming.fr/runnings/liste?Event_filter="
+    
+    await page.goto(url)
+    let paginator = await page.$$('ul.paginator > li > a')
+    
+    let urls = [] 
+    
+    for (let i = 1; i < paginator.length; i++){
+            
+         urls.push(await paginator[i]?.evaluate(el => el.href))
+            
+        }
+    return urls
+}
 
 
 async function extractCard(element){
@@ -57,7 +61,7 @@ let fileName = new Date().getTime() + 'race.json'
 let params = {
     container : "",
     card: '.col-md-6.clickable.visible-lg.visible-md',
-    urls: urls,
+    urls: await extractUrls(),
     extractCard: extractCard,
     fileName: fileName
 }
