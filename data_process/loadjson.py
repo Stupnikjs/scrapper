@@ -18,7 +18,7 @@ def json_to_csv(json_data, csv_file_path):
             csv_writer.writerow(row.values())
 
 # Example usage:
-with open("races.json", 'r') as json_file:
+with open("immo.json", 'r') as json_file:
     # Load the JSON data into a Python object
     json_data = json.load(json_file)
 

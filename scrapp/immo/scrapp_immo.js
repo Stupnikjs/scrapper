@@ -28,17 +28,11 @@ async function getUrls(){
         let priceEl = await element.waitForSelector('div.ad-price__price > span.ad-price__the-price')
         pharmaObj['price'] = await priceEl.evaluate(el => el.textContent)
 
-        let pricePerMEl = await element.waitForSelector('div.ad-price__price > span:nth-child(2)')
+        let pricePerMEl = await element.waitForSelector('div.ad-price__price > span:nth-child(2)', {timout: 10000})
         pharmaObj['price_per_m'] = await pricePerMEl.evaluate(el => el.textContent)
 
        
-        let photoCounterEl = await element.waitForSelector('a.detailedSheetLink')
-        pharmaObj['photo_num'] = await photoCounterEl.evaluate(el => el.textContent)
-
-       /*
-        let hasVideoEl = await element.waitForSelector('.kimono-badge.kimono-badge--secondary.ad-emphasised-tags__badge')
-        pharmaObj['video'] = await hasVideoEl.evaluate(el => el.textContent) == '"Vidéo"'
-        */
+       
 
         return pharmaObj
         
