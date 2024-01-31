@@ -11,8 +11,10 @@ let params = {
     }
     fileName = ''
 */
-
+console.log("Start of scrapping func")
+const start = new Date().getTime()
 const scrapperFunction = async(params) => {
+    
     async function oneScrappingProcess(page){
         let result  = []
         let html = await page.waitForSelector('html')
@@ -35,8 +37,10 @@ const scrapperFunction = async(params) => {
    let page = await browser.newPage(); 
 
    for ( let url of params.urls){
+        
         await page.goto(url)
         let oneProcessResult = await oneScrappingProcess(page)
+        console.log(oneProcessResult)
         result = result.concat(oneProcessResult)
    }
    
@@ -48,6 +52,9 @@ const scrapperFunction = async(params) => {
     fs.writeFileSync(jsonFileName, resultJson)
 
     browser.close()
+    const end = new Date().getTime()
+
+    console.log((end - start) / 1000, " second to execute the program")
     process.exit()
     }
 
