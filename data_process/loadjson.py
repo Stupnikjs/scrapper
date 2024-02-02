@@ -15,7 +15,8 @@ def json_to_csv(json_data, csv_file_path):
 
         # Write each row of data to the CSV file
         for row in json_data:
-            csv_writer.writerow(row.values())
+            if row != None:
+                csv_writer.writerow(row.values())
 
 # Example usage:
 with open("immo.json", 'r') as json_file:

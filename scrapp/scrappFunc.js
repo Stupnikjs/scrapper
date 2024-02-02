@@ -45,7 +45,7 @@ const scrapperFunction = async(params) => {
    }
    
    
-
+    result = result.filter( x => x !== null)
     
     let resultJson = JSON.stringify(result)
     let jsonFileName = params.fileName

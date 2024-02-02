@@ -2,3 +2,4 @@ sqlalchemy
 requests
 pg8000
 cloud-sql-python-connector
+pandas 
