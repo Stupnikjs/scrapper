@@ -1,3 +1,4 @@
 /scrapp/node_modules
 /data_process/.venv 
+/data_process/__pycache__
 *races.json
