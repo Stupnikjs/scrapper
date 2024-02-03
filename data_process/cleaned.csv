@@ -1,0 +1,1226 @@
+,price,price_per_m,postal_code,location,type,area,room
+0,366 800,4 795 ,22410, Saint-Quay-Portrieux,Appartement,73,3
+1,131 000,2 977 ,94350, Villiers-sur-Marne (Les Boutareines - Les Armoiries),Appartement,44,2
+2,499 000,2 988 ,28630, Barjouville,Maison,167,6
+3,342 000,2 591 ,28630, Morancez,Maison,132,5
+4,347 000,1 826 ,28190, Billancelles,Maison,190,7
+5,593 000,1 977 ,28630, Fontenay-sur-Eure,Maison,300,6
+6,149 000,2 023 ,28120, Chauffours,Maison,74,3
+7,179 000,2 632 ,28110, Lucé (Centre-ville),Appartement,68,3
+8,266 000,3 167 ,28000, Chartres (Centre-ville),Appartement,84,3
+9,312 000,2 400 ,28000, Chartres (Rechèvres),Maison,130,6
+10,316 000,2 873 ,28130, Bouglainval,Maison,110,5
+11,319 000,2 948 ,28000, Chartres (Centre-ville),Maison,108,5
+12,357 000,2 380 ,28700, Auneau-Bleury-Saint-Symphorien,Maison,150,5
+13,436 000,1 896 ,28000, Chartres (Fulbert),Maison,230,9
+14,260 000,2 549 ,28300, Fresnay-le-Gilmert,Maison,102,5
+15,190 000,2 714 ,28000, Chartres (Centre-ville),Appartement,70,3
+16,212 500,2 157 ,28360, La Bourdinière-Saint-Loup,Maison,99,4
+17,284 000,1 623 ,28300, Gasville-Oisème,Maison,175,4
+18,499 000,5 293 ,78280, Guyancourt (Village),Maison,94,6
+19,745 500,5 691 ,78180, Montigny-le-Bretonneux (Le Manet),Maison,131,7
+20,449 000,4 526 ,78370, Plaisir (Centre-ville - Château),Maison,95,5
+21,359 000,3 799 ,78370, Plaisir (Bontemps - Valibout),Maison,91,5
+22,357 000,6 611 ,78114, Magny-les-Hameaux,Maison,54,2
+23,372 000,3 509 ,78280, Guyancourt (Le Pont du Routoir),Appartement,106,5
+24,259 500,1 996 ,28110, Lucé (Petit Lucé - Poiffonds),Maison,130,5
+25,151 000,151 0,78960, Voisins-le-Bretonneux,Appartement,25,1
+26,109 800,1 664 ,84260, Sarrians,Maison,66,3
+27,339 000,3 927 ,33000, Bordeaux (Saint-Pierre),Appartement,82,3
+28,199 500,6 496 ,78180, Montigny-le-Bretonneux (Le Village),Appartement,29,1
+29,230 000,230 0,78960, Voisins-le-Bretonneux,Appartement,47,2
+30,790 000,4 570 ,78230, Le Pecq (Cité),Maison,166,6
+31,227 900,2 578 ,78370, Plaisir (Ebisoires),Appartement,83,4
+32,90 000,4 552 ,28000, Chartres (Hôtel Dieu - Grand Faubourg),Appartement,20,1
+33,97 440,2 953 ,28000, Chartres (Rechèvres),Appartement,33,1
+34,225 900,3 530 ,28300, Lèves,Maison,64,3
+35,272 000,1 478 ,28700, Denonville,Maison,184,6
+36,329 000,2 531 ,28360, Prunay-le-Gillon,Maison,130,6
+37,262 500,3 556 ,78180, Montigny-le-Bretonneux (Les Prés),Appartement,74,3
+38,299 000,299 0,78180, Montigny-le-Bretonneux (Le Village),Appartement,63,3
+39,378 000,4 444 ,78180, Montigny-le-Bretonneux (Le Manet),Appartement,85,4
+40,745 000,8 572 ,78000, Versailles (Chantiers),Appartement,83,4
+41,199 900,4 758 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Appartement,40,2
+42,472 500,3 659 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Maison,123,6
+43,220 000,3 509 ,28600, Luisant,Maison,63,3
+44,185 000,3 304 ,28000, Chartres (Rechèvres),Appartement,56,2
+45,81 000,3 020 ,28110, Lucé (Centre-ville),Appartement,27,1
+46,195 000,1 393 ,28300, Gasville-Oisème,Maison,140,5
+47,224 640,3 231 ,28600, Luisant,Maison,70,4
+48,257 000,1 658 ,28120, Vieuvicq,Maison,155,6
+49,262 500,2 019 ,28000, Chartres,Maison,130,6
+50,265 000,2 598 ,28000, Chartres (Fulbert),Maison,102,4
+51,299 000,2 492 ,28300, Champhol,Maison,120,5
+52,158 000,1 699 ,89690, Chéroy,Maison,93,5
+53,499 900,6 492 ,93500, Pantin (Verpantin - Sept Arpents),Appartement,77,4
+54,630 000,1 400 ,28700, Francourville,Maison,450,9
+55,426 400,4 307 ,78280, Guyancourt (Le Pont du Routoir),Appartement,99,4
+56,441 000,3 128 ,78190, Trappes (Village - Cité Nouvelle),Maison,141,5
+57,488 000,4 207 ,78960, Voisins-le-Bretonneux,Maison,116,5
+58,525 000,525 0,78280, Guyancourt (Le Pont du Routoir),Appartement,91,4
+59,2 350 000,"16,5k ",75007, Paris 7e (Breteuil),Appartement,136,5
+60,440 000,440 0,78000, Versailles (Jussieu - Petits Bois - Picardie),Appartement,84,4
+61,750 000,6 521 ,78000, Versailles (Clagny Glatigny),Appartement,110,5
+62,795 000,6 757 ,78000, Versailles (Porchefontaine),Maison,115,6
+63,405 000,6 746 ,78000, Versailles (Notre Dame),Appartement,60,4
+64,1 190 000,5 815 ,78000, Versailles (Notre Dame),Duplex,197,6
+65,980 000,4 700 ,78280, Guyancourt (Zones d'activités - Hameau de Bouviers - Hameau de la Minière),Maison,200,7
+66,289 000,4 561 ,78370, Plaisir (Ebisoires),Appartement,60,3
+67,458 000,4 028 ,94400, Vitry-sur-Seine (Les Ardoines),Maison,108,4
+68,2 750 000,9 885 ,94170, Le Perreux-sur-Marne (Centre-ville - Quais d'Argonne),Maison,262,10
+69,595 000,7 635 ,75014, Paris 14e (Montsouris - Dareau),Appartement,74,3
+70,1 099 000,4 240 ,92160, Antony (Baconnets),Maison,250,5
+71,870 000,5 438 ,78670, Villennes-sur-Seine,Maison,160,7
+72,1 092 600,4 649 ,93100, Montreuil (Signac - Mûrs à Pêches),Maison,235,8
+73,950 000,"13,2k ",75007, Paris 7e (Champ de Mars),Appartement,70,4
+74,1 750 000,6 250 ,78600, Maisons-Laffitte (Ouest),Maison,280,9
+75,150 000,1 899 ,28600, Luisant,Appartement,79,3
+76,220 000,2 105 ,28110, Lucé (Centre-ville),Appartement,104,4
+77,255 250,2 075 ,28130, Maintenon,Maison,123,5
+78,350 000,6 735 ,06400, Cannes (Pointe Croisette),Appartement,49,2
+79,1 150 000,1 150 0,75005, Paris 5e (Val de Grâce),Appartement,75,4
+80,450 000,5 679 ,78000, Versailles (Chantiers),Appartement,75,3
+81,456 000,7 216 ,78000, Versailles (Chantiers),Appartement,60,3
+82,540 000,4 036 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Maison,129,6
+83,279 000,4 590 ,78280, Guyancourt (Le Parc - Les Saules),Appartement,61,3
+84,356 500,5 441 ,78180, Montigny-le-Bretonneux (Le Village),Appartement,66,3
+85,647 500,"10,4k ",75011, Paris 11e (République - Saint-Ambroise),Appartement,62,3
+86,4 800 000,8 712 ,94170, Le Perreux-sur-Marne (Thillards),Maison,520,10
+87,325 600,"13,9k ",75007, Paris 7e (Champ de Mars),Appartement,23,1
+88,1 100 000,10k ,75014, Paris 14e (Mouton - Duvernet),Appartement,105,6
+89,460 000,6 199 ,92600, Asnières-sur-Seine (Centre-ville),Appartement,74,3
+90,660 000,"10,5k ",75009, Paris 9e (Clichy - Trinité),Appartement,60,3
+91,829 900,3 772 ,44100, Nantes (Zola - Dervallières),Maison,220,7
+92,400 000,6 691 ,78000, Versailles (Notre Dame),Appartement,57,3
+93,414 000,2 229 ,77450, Esbly,Maison,186,6
+94,319 000,5 696 ,92410, Ville-d'Avray,Appartement,56,3
+95,480 000,4 286 ,44000, Nantes (Centre-ville),Appartement,112,5
+96,570 000,"10,5k ",75013, Paris 13e (Patay - Masséna),Duplex,52,3
+97,630 000,5 888 ,93100, Montreuil (Bas Montreuil - Bobillot),Appartement,107,4
+98,162 000,1 976 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,82,4
+99,1 185 600,6 409 ,78000, Versailles (Notre Dame),Appartement,185,7
+100,375 000,5 769 ,78000, Versailles (Clagny Glatigny),Appartement,65,4
+101,369 000,3 530 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Maison,100,6
+102,1 648 000,6 275 ,78150, Le Chesnay (Saint-Antoine de Padoue),Maison,255,9
+103,490 000,7 424 ,75018, Paris 18e (La Chapelle - Marx Dormoy),Appartement,66,2
+104,865 000,2 029 ,31330, Merville,Maison,410,11
+105,478 000,5 690 ,63000, Clermont-Ferrand (Jaude - Fontgiève Saint-Alyre),Appartement,84,3
+106,649 000,2 377 ,91150, Étampes (Centre-Ville),Maison,273,9
+107,433 000,4 010 ,78180, Montigny-le-Bretonneux (La Sourderie Sud),Maison,103,4
+108,329 700,3 400 ,78120, Rambouillet (Groussay - Providence - Gommerie - Vernes - Dreyfus),Appartement,92,4
+109,1 200 000,8 214 ,92500, Rueil-Malmaison (Coteaux),Maison,140,7
+110,320 000,3 200 ,38150, Salaise-sur-Sanne,Maison,100,4
+111,669 000,2 593 ,01800, Meximieux,Maison,258,7
+112,209 000,3 483 ,69690, Bessenay,Maison,60,3
+113,209 000,3 483 ,69210, L'Arbresle,Maison,60,3
+114,90 000,1 471 ,87000, Limoges (Bénédictins - Montplaisir),Appartement,61,2
+115,415 000,5 321 ,06300, Nice (Riquier),Appartement,78,3
+116,220 000,2 067 ,47450, Colayrac-Saint-Cirq,Maison,106,5
+117,549 000,4 097 ,38780, Septème,Maison,134,6
+118,799 000,4 932 ,69008, Lyon 8e (Monplaisir),Appartement,162,5
+119,850 000,8 300 ,75015, Paris 15e (Georges Brassens),Appartement,100,4
+120,367 500,2 800 ,67230, Benfeld,Maison,125,5
+121,195 000,848 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Maison,230,7
+122,114 500,1 864 ,87000, Limoges (Le Sablard - Limoges Sud),Appartement,61,3
+123,758 000,"12,5k ",75005, Paris 5e (Jardin des Plantes),Appartement,57,3
+124,390 000,2 422 ,69200, Vénissieux (Centre-ville),Maison,161,6
+125,739 000,3 437 ,69008, Lyon 8e (Bachut - Transvaal),Maison,215,6
+126,298 000,1 753 ,01310, Confrançon,Maison,170,4
+127,580 000,5 979 ,69004, Lyon 4e (Croix Rousse Centre-ville),Duplex,97,3
+128,580 000,5 979 ,69004, Lyon 4e (Croix Rousse Centre-ville),Maison,97,3
+129,798 000,6 138 ,06650, Le Rouret,Maison,130,4
+130,198 000,7 304 ,92150, Suresnes (Centre-ville),Appartement,27,2
+131,345 000,"10,6k ",75014, Paris 14e (Pernety),Appartement,31,2
+132,565 000,9 316 ,75019, Paris 19e (Secrétan - Jaurès),Appartement,57,3
+133,515 000,"15,6k ",75005, Paris 5e (Val de Grâce),Appartement,33,2
+134,959 300,"11,2k ",75014, Paris 14e (Montparnasse - Raspail),Appartement,81,2
+135,1 600 000,"14,1k ",75009, Paris 9e (Lorette - Martyrs),Appartement,108,3
+136,289 000,1 806 ,21110, Rouvres-en-Plaine,Maison,160,5
+137,585 000,7 477 ,75015, Paris 15e (Georges Brassens),Appartement,75,3
+138,89 000,741 ,47130, Saint-Laurent,Maison,120,4
+139,890 000,3 358 ,69620, Légny,Maison,265,8
+140,138 000,1 776 ,87000, Limoges (Aurence - Corgnac - Cité universitaire - Beaublanc),Appartement,78,3
+141,169 500,3 892 ,44000, Nantes (Saint-Donatien - Tortière),Appartement,44,2
+142,92 000,2 682 ,34000, Montpellier (Prés d'Arènes),Appartement,34,1
+143,96 000,2 819 ,34080, Montpellier (Celleneuve),Appartement,34,1
+144,480 000,"14,8k ",75007, Paris 7e (Champ de Mars),Appartement,31,2
+145,249 000,2 147 ,47520, Le Passage,Maison,116,6
+146,375 000,2 500 ,26200, Montélimar (Sarda la Dame - Nitrière - Gondole),Maison,150,6
+147,350 000,2 448 ,69770, Villechenève,Maison,143,5
+148,595 000,4 577 ,69007, Lyon 7e (Guillotière),Appartement,130,5
+149,669 000,2 593 ,01320, Crans,Maison,258,7
+150,395 000,1 639 ,38300, Saint-Savin,Maison,241,10
+151,1 210 000,1 210 0,75014, Paris 14e (Pernety),Appartement,106,5
+152,1 100 000,"23,1k ",75007, Paris 7e (Saint-Thomas d'Aquin - Bac - Musée d'Orsay),Appartement,45,2
+153,350 000,2 593 ,66000, Perpignan (La Réal),Maison,135,4
+154,365 000,9 311 ,06000, Nice (Carabacel),Appartement,39,2
+155,790 000,1 899 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Maison,395,10
+156,219 900,2 159 ,28100, Dreux (Centre-ville),Maison,97,4
+157,485 000,8 411 ,06000, Nice (Carabacel),Appartement,58,3
+158,635 000,8 683 ,06000, Nice (Carabacel),Appartement,73,3
+159,258 000,2 867 ,28000, Chartres (Centre-ville),Appartement,90,4
+160,490 000,4 900 ,69008, Lyon 8e (Monplaisir),Appartement,100,5
+161,546 000,4 178 ,78280, Guyancourt (Le Parc - Les Saules),Maison,124,7
+162,11 660 000,22k ,75116, Paris 16e (Dauphine),Appartement,500,9
+163,145 000,3 625 ,63000, Clermont-Ferrand (Saint-Jacques),Appartement,40,2
+164,1 150 000,"12,2k ",75015, Paris 15e (Saint-Lambert - Convention),Appartement,94,4
+165,1 600 000,"15,8k ",75005, Paris 5e (Sorbonne - Quartier Latin),Appartement,101,4
+166,449 000,4 402 ,69008, Lyon 8e (Monplaisir),Appartement,102,4
+167,890 000,2 697 ,38300, Saint-Savin,Maison,330,10
+168,273 000,3 650 ,78180, Montigny-le-Bretonneux (La Sourderie Sud),Appartement,75,3
+169,420 000,8 918 ,75015, Paris 15e (Alleray - Procession),Appartement,46,2
+170,1 350 000,"10,1k ",75013, Paris 13e (Bièvre Sud - Tolbiac),Duplex,134,5
+171,121 000,1 380 ,87000, Limoges (CHU),Appartement,88,4
+172,154 000,2 026 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,76,3
+173,557 000,3 481 ,66000, Perpignan (Saint-Jacques),Maison,160,5
+174,525 000,3 030 ,67117, Quatzenheim,Maison,165,6
+175,349 000,4 656 ,06100, Nice,Appartement,75,3
+176,382 000,4 340 ,69300, Caluire-et-Cuire (Vassieux - Crépieux),Appartement,88,4
+177,497 600,4 659 ,44000, Nantes (Monselet),Appartement,107,5
+178,464 000,4 688 ,78280, Guyancourt (L'Europe),Maison,96,6
+179,190 000,2 346 ,66000, Perpignan (Saint-Jacques),Appartement,81,3
+180,240 000,2 222 ,43700, Brives-Charensac,Appartement,108,4
+181,102 600,3 420 ,66140, Canet-en-Roussillon (Les Hauts de Canet - Vert Vallon),Appartement,30,2
+182,1 950 000,"13,9k ",75016, Paris 16e (Dauphine),Appartement,136,5
+183,284 500,2 862 ,94470, Boissy-Saint-Léger (Centre-ville - Progrès),Appartement,99,5
+184,789 000,9 167 ,75014, Paris 14e (Didot - Porte de Vanves),Appartement,84,4
+185,99 000,1 500 ,63100, Clermont-Ferrand (Montferrand),Appartement,66,3
+186,110 000,3 143 ,63610, Besse-et-Saint-Anastaise,Appartement,35,3
+187,179 900,2 811 ,78340, Les Clayes-sous-Bois (Ouest),Appartement,64,3
+188,465 000,2 703 ,38200, Vienne (Estressin),Maison,172,5
+189,229 000,2 245 ,38550, Auberives-sur-Varèze,Maison,102,4
+190,280 000,3 256 ,69340, Francheville (Francheville Le Bas - Grandes-Terres - Le Chater),Appartement,86,3
+191,699 000,1 450 ,01140, Saint-Didier-sur-Chalaronne,Maison,482,11
+192,465 000,5 076 ,94200, Ivry-sur-Seine (Parmentier - Marat - Robespierre),Appartement,92,5
+193,183 000,183 0,34070, Montpellier (Lemasson),Appartement,79,5
+194,190 000,1 827 ,47000, Agen (Palissy),Appartement,104,4
+195,455 000,455 0,75014, Paris 14e (Mouton - Duvernet),Appartement,49,3
+196,590 000,5 130 ,69004, Lyon 4e (Croix Rousse Centre-ville),Appartement,115,4
+197,399 000,4 385 ,78330, Fontenay-le-Fleury (Sables - Démènerie),Maison,91,5
+198,55 000,2 314 ,34000, Montpellier (Celleneuve),Appartement,24,1
+199,203 500,1 696 ,47510, Foulayronnes,Maison,120,5
+200,598 500,3 610 ,94320, Thiais (Pavé de Grignon),Maison,158,6
+201,329 000,1 097 ,24240, Sigoulès,Maison,300,11
+202,980 000,"10,1k ",78100, Saint-Germain-en-Laye (Alsace - Péreire),Appartement,97,4
+203,560 000,3 394 ,01700, Miribel,Maison,165,5
+204,399 000,399 0,66240, Saint-Estève,Maison,180,6
+205,55 000,1 264 ,87000, Limoges (Le Sablard - Limoges Sud),Appartement,44,1
+206,248 000,4 241 ,34000, Montpellier (Millénaire),Appartement,58,3
+207,341 000,3 008 ,78190, Trappes (La Boissière),Maison,113,6
+208,399 000,4 988 ,92600, Asnières-sur-Seine (Coubertin),Appartement,80,4
+209,485 000,3 464 ,38230, Tignieu-Jameyzieu,Maison,140,5
+210,193 000,3 038 ,34070, Montpellier (Lemasson),Appartement,64,3
+211,88 000,1 420 ,87000, Limoges (CHU),Appartement,62,3
+212,145 000,2 959 ,63610, Besse-et-Saint-Anastaise,Appartement,49,3
+213,158 000,1 795 ,24100, Bergerac (La Madeleine - Naillac - Cavaille - Aéroport),Maison,88,5
+214,399 000,4 290 ,69300, Caluire-et-Cuire (Le Vernay),Appartement,93,4
+215,397 750,4 469 ,78340, Les Clayes-sous-Bois (Ouest),Maison,89,5
+216,765 000,9 737 ,75015, Paris 15e (Vaugirard - Parc des Expositions),Appartement,76,4
+217,460 000,8 166 ,78000, Versailles (Notre Dame),Appartement,56,3
+218,311 000,2 802 ,38370, Saint-Clair-du-Rhône,Maison,111,5
+219,590 000,5 130 ,69300, Caluire-et-Cuire (Cuire-le-bas - Cuire-le-Haut),Appartement,115,4
+220,168 000,"14,6k ",75005, Paris 5e (Val de Grâce),Appartement,11,1
+221,262 500,3 255 ,94320, Thiais (Pavé de Grignon),Appartement,77,4
+222,575 000,"10,2k ",75015, Paris 15e (Alleray - Procession),Appartement,54,3
+223,175 000,2 966 ,63610, Besse-et-Saint-Anastaise,Appartement,59,3
+224,77 000,1 833 ,87000, Limoges (CHU),Appartement,42,2
+225,217 000,2 523 ,66000, Perpignan (Saint-Jean),Appartement,86,3
+226,305 000,5 083 ,69280, Marcy-l'Étoile,Maison,60,3
+227,1 150 000,"13,1k ",75005, Paris 5e (Val de Grâce),Appartement,84,5
+228,1 260 000,"14,6k ",75005, Paris 5e (Val de Grâce),Appartement,82,3
+229,860 000,7 167 ,06000, Nice (Saint-Pierre de Feric),Maison,120,6
+230,638 600,5 192 ,69890, La Tour-de-Salvagny,Maison,123,4
+231,620 000,8 551 ,75015, Paris 15e (Alleray - Procession),Appartement,69,3
+232,755 000,8 333 ,75015, Paris 15e (Vaugirard - Parc des Expositions),Appartement,87,4
+233,215 000,3 209 ,01330, Villars-les-Dombes,Appartement,67,3
+234,780 000,8 667 ,06230, Villefranche-sur-Mer,Appartement,90,3
+235,488 000,3 233 ,78960, Voisins-le-Bretonneux,Maison,146,5
+236,350 000,2 482 ,69560, Sainte-Colombe,Maison,141,5
+237,350 000,2 482 ,38200, Vienne (L'Isle),Maison,141,5
+238,190 000,1 792 ,87000, Limoges (Aurence - Corgnac - Cité universitaire - Beaublanc),Maison,106,5
+239,498 000,3 831 ,21121, Fontaine-lès-Dijon,Maison,130,5
+240,610 000,3 473 ,06100, Nice (Saint-Sylvestre),Maison,167,
+241,1 395 000,8 719 ,69160, Tassin-la-Demi-Lune (Alaï),Appartement,160,5
+242,339 000,2 216 ,38200, Vienne (Centre-ville),Appartement,153,6
+243,525 000,2 083 ,38510, Morestel,Maison,252,8
+244,295 000,958 ,69550, Amplepuis,Maison,308,11
+245,715 000,1 334 ,71140, Bourbon-Lancy,Maison,509,12
+246,189 900,2 998 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Appartement,60,2
+247,360 000,6 061 ,06500, Menton (Hôtel de Ville - Vieille Ville - Musée - Madone - Carnolès),Appartement,59,3
+248,380 000,1 047 ,23000, Sainte-Feyre,Maison,363,11
+249,1 395 000,8 719 ,69130, Écully (Les Serres - Vivier),Appartement,160,5
+250,1 630 000,6 849 ,69006, Lyon 6e (Les Brotteaux),Appartement,238,6
+251,221 000,3 348 ,78340, Les Clayes-sous-Bois (Centre-ville),Appartement,66,4
+252,415 000,4 622 ,06700, Saint-Laurent-du-Var (Jacquons - Plateaux Fleuris),Appartement,90,4
+253,109 000,1 534 ,87100, Limoges (Louyat),Appartement,71,4
+254,860 000,"10,2k ",75014, Paris 14e (Montparnasse - Raspail),Appartement,82,4
+255,499 000,4 990 ,78960, Voisins-le-Bretonneux,Maison,100,4
+256,88 000,1 545 ,87000, Limoges (CHU),Appartement,57,3
+257,167 000,4 992 ,17640, Vaux-sur-Mer,Appartement,31,2
+258,390 000,5 486 ,75012, Paris 12e (Bel-Air - Sud),Appartement,71,3
+259,163 000,1 283 ,86310, Béthines,Maison,127,6
+260,280 000,7 804 ,78000, Versailles (Porchefontaine),Appartement,34,1
+261,590 000,6 743 ,78000, Versailles (Clagny Glatigny),Appartement,85,3
+262,1 280 000,8 312 ,06000, Nice (Saint-Pierre de Feric),Appartement,154,5
+263,1 050 000,"10,4k ",75014, Paris 14e (Pernety),Appartement,101,5
+264,870 000,7 589 ,92170, Vanves (Hauts-de-Vanves),Appartement,112,5
+265,465 000,8 611 ,06320, Cap-d'Ail,Appartement,54,3
+266,549 000,"10,7k ",75009, Paris 9e (Grands Boulevards),Appartement,51,3
+267,451 500,10k ,75014, Paris 14e (Pernety),Appartement,43,3
+268,599 000,5 760 ,44100, Nantes (Canclaux - Mellinet),Maison,104,4
+269,240 000,5 455 ,94000, Créteil (Côte d'Or - Sarrazins),Appartement,44,2
+270,635 000,"10,9k ",75013, Paris 13e (Butte-aux-Cailles),Appartement,58,3
+271,185 000,1 888 ,01090, Montmerle-sur-Saône,Maison,98,4
+272,71 000,904 ,58000, Nevers (Centre-ville),Appartement,79,4
+273,385 000,5 000 ,69007, Lyon 7e (Guillotière),Appartement,77,3
+274,164 000,1 433 ,24000, Périgueux (Centre-ville - La Gare - Saint-Martin),Appartement,114,4
+275,800 000,8 333 ,92100, Boulogne-Billancourt (Silly - Gallieni),Appartement,96,5
+276,910 000,8 079 ,75020, Paris 20e (Gambetta),Appartement,107,5
+277,177 000,1 311 ,21150, Venarey-les-Laumes,Maison,135,6
+278,210 000,3 650 ,94600, Choisy-le-Roi (Centre-ville - Parc Prairie - Hautes Bornes),Appartement,55,2
+279,237 000,5 191 ,94140, Alfortville (Mairie - Gare),Appartement,44,2
+280,1 450 000,9 539 ,78400, Chatou (Sud),Maison,152,6
+281,985 000,"11,1k ",75014, Paris 14e (Montparnasse - Raspail),Appartement,86,4
+282,410 000,5 125 ,44000, Nantes (Centre-ville),Appartement,80,3
+283,96 000,96 0,75017, Paris 17e (Batignolles - Cardinet),Appartement,11,1
+284,220 500,3 710 ,83330, Le Castellet,Appartement,59,3
+285,1 420 000,"10,7k ",75015, Paris 15e (Alleray - Procession),Appartement,133,5
+286,275 000,2 806 ,21220, Saint-Philibert,Maison,98,5
+287,125 000,2 358 ,69440, Mornant,Appartement,53,2
+288,820 000,5 125 ,33110, Le Bouscat (Lyautey - Champ de Courses),Maison,160,6
+289,340 000,4 989 ,69007, Lyon 7e (Guillotière),Appartement,68,3
+290,79 500,1 787 ,47000, Agen (Tapie - Mondésir),Appartement,45,2
+291,260 000,2 549 ,13003, Marseille 3e (Belle de Mai),Maison,102,5
+292,440 000,9 565 ,75018, Paris 18e (Grandes Carrières - Clichy),Appartement,46,2
+293,2 215 000,"17,7k ",75002, Paris 2e (Montorgueil - Etienne Marcel),Appartement,125,5
+294,275 000,3 986 ,69007, Lyon 7e (Guillotière),Appartement,69,4
+295,395 000,2 992 ,33800, Bordeaux (Nansouty),Appartement,132,6
+296,850 000,2 833 ,33600, Pessac (3M),Maison,300,7
+297,470 000,4 434 ,33000, Bordeaux (Rivière),Maison,106,5
+298,540 000,3 375 ,44100, Nantes (Zola - Dervallières),Appartement,160,6
+299,349 000,4 363 ,69310, Pierre-Bénite,Maison,80,4
+300,139 000,1 878 ,01600, Trévoux,Appartement,74,4
+301,374 400,4 587 ,77600, Bussy-Saint-Georges (Les Scientifiques),Appartement,82,4
+302,895 000,9 010 ,75014, Paris 14e (Montsouris - Dareau),Appartement,96,4
+303,499 000,"12,5k ",75005, Paris 5e (Val de Grâce),Duplex,38,2
+304,167 990,2 667 ,31200, Toulouse (Les Izards),Appartement,63,3
+305,350 000,2 500 ,66000, Perpignan (Las Cobas),Maison,140,7
+306,489 000,4 075 ,69140, Rillieux-la-Pape (Ville nouvelle Sud),Appartement,120,4
+307,689 000,3 937 ,01600, Parcieux,Maison,175,7
+308,799 000,4 566 ,01600, Parcieux,Maison,175,7
+309,478 000,3 187 ,83630, Aups,Maison,150,5
+310,216 300,2 558 ,26400, Crest,Maison,85,4
+311,1 395 000,"12,6k ",75007, Paris 7e (Champ de Mars),Appartement,107,4
+312,568 000,8 108 ,92140, Clamart (Centre-ville),Appartement,70,3
+313,2 350 000,"13,8k ",06000, Nice (Baumettes),Maison,162,6
+314,431 000,3 918 ,68100, Mulhouse (Europe - Bassin Nordfeld),Appartement,110,4
+315,20 000,1 546 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,13,1
+316,229 990,3 319 ,31830, Plaisance-du-Touch (Le Cou du Canard - La Tête du Canard),Maison,69,3
+317,149 000,5 056 ,94260, Fresnes (Charcot - Zola),Appartement,28,1
+318,254 000,1 605 ,69430, Saint-Didier-sur-Beaujeu,Maison,158,6
+319,435 000,4 307 ,33000, Bordeaux (Chartrons - Paul Doumer),Appartement,101,3
+320,520 000,"10,6k ",75018, Paris 18e (Jules Joffrin),Appartement,49,3
+321,345 000,2 091 ,69400, Villefranche-sur-Saône (Ouest),Maison,165,5
+322,253 000,4 176 ,78370, Plaisir (Gâtines - Boissière - Mare aux Saules),Appartement,58,3
+323,466 400,3 826 ,06100, Nice (Saint-Sylvestre),Appartement,115,5
+324,198 000,2 789 ,13012, Marseille 12e (La Fourragère),Appartement,71,3
+325,524 000,4 990 ,83400, Hyères (Pyanet),Maison,105,5
+326,389 900,3 749 ,33000, Bordeaux (Pellegrin - Chaban-Delmas),Appartement,104,5
+327,1 150 000,12k ,75016, Paris 16e (Auteuil-Nord - Jasmin - Mirabeau),Appartement,96,4
+328,360 000,2 975 ,69100, Villeurbanne (Saint-Jean),Maison,121,4
+329,420 000,2 877 ,43700, Le Monteil,Maison,146,5
+330,1 140 000,8 444 ,06300, Nice (Garibaldi),Appartement,135,5
+331,1 395 000,"10,7k ",06000, Nice (Carré d'or),Appartement,130,4
+332,1 095 000,3 323 ,91470, Forges-les-Bains,Maison,316,13
+333,370 000,8 972 ,06200, Nice (Fabron),Appartement,41,1
+334,340 000,4 146 ,13008, Marseille 8e (Sainte-Anne),Appartement,82,3
+335,310 000,3 131 ,29290, Milizac-Guipronvel,Maison,99,5
+336,179 000,3 739 ,64240, Urt,Appartement,48,2
+337,1 638 000,"10,1k ",75014, Paris 14e (Montsouris - Dareau),Appartement,157,6
+338,165 000,2 463 ,69100, Villeurbanne (Buers),Appartement,67,4
+339,210 000,4 773 ,69007, Lyon 7e (Jean Macé),Appartement,44,2
+340,279 000,4 292 ,44100, Nantes (Canclaux - Mellinet),Appartement,65,3
+341,379 000,4 566 ,69001, Lyon 1er (Ouest des Pentes),Appartement,83,3
+342,399 000,4 433 ,69100, Villeurbanne (Perrallière),Maison,90,5
+343,410 000,4 767 ,33000, Bordeaux (Victoire - Sainte-Eulalie),Appartement,86,3
+344,415 000,2 767 ,44120, Vertou (Beautour - La Maladrie - Rives de Sèvre),Maison,150,6
+345,430 000,8 431 ,92100, Boulogne-Billancourt (Vaillant - Marcel Sembat),Appartement,51,2
+346,875 000,8 413 ,75019, Paris 19e (Bassin de la Villette),Appartement,104,5
+347,8 320 000,20k ,75116, Paris 16e (Dauphine),Appartement,400,9
+348,1 500 000,2 778 ,84450, Jonquerettes,Maison,540,15
+349,175 000,2 734 ,13010, Marseille 10e (Pont de Vivaux),Appartement,64,3
+350,440 000,3 520 ,33140, Villenave-d'Ornon (Chambéry - La Monnaie - Carbonnieux - Trigan),Maison,125,5
+351,450 000,5 769 ,92320, Châtillon (Conservatoire),Appartement,78,4
+352,463 900,2 577 ,44340, Bouguenais (Les Couëts),Maison,180,7
+353,528 500,3 283 ,44120, Vertou (Les Coteaux de Sèvre - Le Chêne - Portillon - La Forêt),Maison,161,6
+354,749 000,7 000 ,92500, Rueil-Malmaison (Plaine Gare),Maison,107,5
+355,760 000,4 000 ,44120, Vertou (Beautour - La Maladrie - Rives de Sèvre),Maison,190,7
+356,360 000,2 571 ,69640, Ville-sur-Jarnioux,Maison,140,8
+357,632 000,5 838 ,92270, Bois-Colombes (Jean Jaurès),Maison,108,5
+358,78 000,4 004 ,34080, Montpellier (Mosson),Appartement,19,1
+359,249 000,2 598 ,47000, Agen (Palissy),Appartement,96,4
+360,750 000,7 075 ,75013, Paris 13e (Butte-aux-Cailles),Appartement,106,4
+361,249 100,2 260 ,46300, Gourdon,Maison,104,4
+362,1 450 000,8 011 ,06570, Saint-Paul-de-Vence,Maison,181,7
+363,439 000,3 320 ,78180, Montigny-le-Bretonneux (La Sourderie Nord),Maison,128,7
+364,449 000,2 580 ,73410, Saint-Ours,Appartement,174,5
+365,470 000,1 787 ,69230, Saint-Genis-Laval (Collonges),Maison,263,10
+366,529 000,2 939 ,69210, L'Arbresle,Maison,180,6
+367,720 900,3 517 ,44100, Nantes (Zola - Dervallières),Maison,205,10
+368,218 000,"10,5k ",75015, Paris 15e (Vaugirard - Parc des Expositions),Studio,19,
+369,379 000,5 211 ,33470, Gujan-Mestras (Mestras),Maison,71,3
+370,525 000,4 134 ,44100, Nantes (Canclaux - Mellinet),Appartement,127,5
+371,989 000,4 945 ,33000, Bordeaux (Grand Parc),Maison,200,7
+372,310 000,3 690 ,69500, Bron (Le Terraillon),Appartement,84,4
+373,320 000,2 936 ,69680, Chassieu,Maison,109,5
+374,399 000,399 0,92100, Boulogne-Billancourt (Jean Jaurès - Reine),Appartement,49,3
+375,295 000,3 598 ,21000, Dijon (Montagne Sainte-Anne),Maison,82,4
+376,60 500,1 411 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,43,2
+377,299 000,3 602 ,69310, Pierre-Bénite,Appartement,83,4
+378,870 000,"10,8k ",92300, Levallois-Perret (Henri Barbusse),Appartement,80,3
+379,990 000,5 350 ,95100, Argenteuil (Les Coteaux),Maison,185,7
+380,1 090 000,5 070 ,93100, Montreuil (Jean Moulin - Beaumonts),Maison,215,6
+381,259 000,259 0,31100, Toulouse (Papus),Maison,112,5
+382,175 000,5 833 ,31000, Toulouse (Saint-Sernin),Appartement,30,1
+383,480 000,7 186 ,06320, Cap-d'Ail,Appartement,67,3
+384,277 000,2 570 ,66250, Saint-Laurent-de-la-Salanque,Maison,103,4
+385,78 000,1 200 ,24100, Bergerac (La Madeleine - Naillac - Cavaille - Aéroport),Appartement,65,2
+386,66 000,733 ,89300, Joigny,Maison,90,4
+387,329 000,3 075 ,77170, Brie-Comte-Robert (Centre-ville),Maison,107,5
+388,589 000,3 291 ,78450, Villepreux,Maison,179,10
+389,264 900,5 396 ,06160, Juan-les-Pins (Juan-les-Pins - Le Cap),Appartement,48,2
+390,1 195 000,1 195 0,92130, Issy-les-Moulineaux (Les Epinettes - Le Fort - Les Hauts d'Issy),Maison,161,6
+391,1 207 000,"11,2k ",92200, Neuilly-sur-Seine (Plaine des Sablons),Appartement,107,5
+392,2 950 000,"16,2k ",06300, Nice (Le Port),Appartement,182,7
+393,199 000,2 519 ,21160, Marsannay-la-Côte,Maison,79,3
+394,287 500,2 014 ,45120, Châlette-sur-Loing (Vésines - La Pontonnerie - Kennedy),Maison,143,6
+395,449 000,4 446 ,69003, Lyon 3e (Voltaire - Part Dieu),Appartement,101,3
+396,308 000,2 232 ,69250, Albigny-sur-Saône,Appartement,138,4
+397,268 000,3 268 ,69100, Villeurbanne (Doua),Appartement,82,4
+398,520 000,6 700 ,06800, Cagnes-sur-Mer (Les Colettes),Maison,78,5
+399,7 280 000,"29,9k ",74110, Avoriaz (Avoriaz - Falaise),Maison,244,9
+400,249 990,2 336 ,82370, Campsas,Maison,107,4
+401,315 000,4 922 ,69007, Lyon 7e (Gerland),Appartement,64,3
+402,319 990,319 9,31410, Longages,Maison,103,4
+403,132 500,1 922 ,29000, Quimper (Kerfeunteun - Cuzon),Appartement,64,5
+404,186 000,3 321 ,69005, Lyon 5e (Ménival - Battières - La Plaine),Appartement,56,3
+405,355 100,2 888 ,67190, Gresswiller,Maison,116,5
+406,225 000,3 750 ,69410, Champagne-au-Mont-d'Or,Appartement,60,3
+407,104 500,1 685 ,47000, Agen (Jean Jaurès),Appartement,62,3
+408,1 995 000,1 995 0,06000, Nice (Gairaut),Maison,222,7
+409,145 000,1 245 ,38100, Grenoble (Village Olympique),Appartement,111,5
+410,219 000,2 920 ,78340, Les Clayes-sous-Bois,Appartement,75,4
+411,1 110 000,8 222 ,92600, Asnières-sur-Seine (Centre-ville),Maison,135,6
+412,187 000,8 130 ,34280, La Grande-Motte (Couchant- Petite Motte),Appartement,23,2
+413,288 000,4 286 ,66190, Collioure,Maison,63,2
+414,121 000,1 658 ,18150, La Guerche-sur-l'Aubois,Maison,73,5
+415,625 000,6 046 ,74170, Saint-Gervais-les-Bains,Appartement,103,6
+416,499 000,4 524 ,78640, Neauphle-le-Château,Maison,105,6
+417,259 000,3 866 ,69005, Lyon 5e (Saint-Just - Saint-Irénée - Fourvière),Appartement,67,3
+418,269 000,5 604 ,69007, Lyon 7e (Guillotière),Appartement,48,2
+419,490 000,4 050 ,44300, Nantes (Nantes Erdre - La Beaujoire - Saint-Joseph de Porterie),Maison,121,5
+420,225 000,2 344 ,47240, Castelculier,Maison,96,5
+421,149 990,3 191 ,31140, Aucamville,Appartement,47,2
+422,154 990,4 305 ,31200, Toulouse (Sept Deniers),Appartement,36,2
+423,166 990,2 879 ,31830, Plaisance-du-Touch (Le Cou du Canard - La Tête du Canard),Appartement,58,3
+424,182 990,3 155 ,31200, Toulouse,Appartement,58,3
+425,184 990,2 913 ,31880, La Salvetat-Saint-Gilles,Appartement,64,3
+426,216 990,3 741 ,31500, Toulouse (Marengo - Jolimont - Médiathèque - La Colonne),Appartement,58,3
+427,229 990,3 707 ,31300, Toulouse (Saint-Martin du Touch),Appartement,62,3
+428,234 990,2 831 ,31470, Fonsorbes,Maison,83,4
+429,290 000,2 762 ,31340, Villematier,Maison,105,4
+430,381 000,2 381 ,82700, Montech,Maison,160,5
+431,394 990,3 435 ,31650, Saint-Orens-de-Gameville,Maison,115,5
+432,565 000,3 247 ,31650, Saint-Orens-de-Gameville,Maison,174,7
+433,254 500,2 121 ,28300, Berchères-Saint-Germain,Maison,120,7
+434,730 000,"10,6k ",75009, Paris 9e (Clichy - Trinité),Appartement,66,3
+435,588 000,3 630 ,68700, Steinbach,Maison,162,7
+436,310 000,310 0,85230, Saint-Urbain,Maison,135,5
+437,215 000,1 535 ,66300, Ponteilla,Maison,134,5
+438,675 000,5 185 ,06000, Nice (Thiers - Musicien),Appartement,124,5
+439,253 000,1 860 ,49190, Val-du-Layon,Maison,136,6
+440,149 000,6 478 ,69007, Lyon 7e (Guillotière),Appartement,23,1
+441,209 000,4 739 ,34920, Le Crès,Appartement,44,2
+442,345 000,3 136 ,69610, Haute-Rivoire,Maison,110,5
+443,79 000,1 068 ,42000, Saint-Étienne (Couriot - Tarentaise - Beaubrun),Appartement,74,4
+444,399 000,399 0,75014, Paris 14e (Montsouris - Dareau),Studio,48,
+445,250 000,1 389 ,71470, Romenay,Maison,180,8
+446,130 000,1 831 ,21000, Dijon (Drapeau - Maladière),Appartement,71,3
+447,550 000,6 111 ,69006, Lyon 6e (Mutualité - Préfecture - Moncey),Appartement,90,4
+448,279 000,279 0,94320, Thiais (Pavé de Grignon),Appartement,68,3
+449,275 000,4 297 ,69100, Villeurbanne (Léon Blum - Bon Coin),Appartement,64,3
+450,103 000,2 395 ,66000, Perpignan (Saint-Martin),Appartement,43,2
+451,116 000,2 035 ,47000, Agen (Le Goulfie),Appartement,57,3
+452,1 300 000,5 909 ,78750, Mareil-Marly,Maison,220,7
+453,329 000,3 104 ,69120, Vaulx-en-Velin (Vaulx en Velin Sud),Maison,106,5
+454,210 000,210 0,75014, Paris 14e (Pernety),Appartement,23,2
+455,825 000,7 843 ,75015, Paris 15e (Georges Brassens),Appartement,102,4
+456,937 000,9 000 ,75015, Paris 15e (Alleray - Procession),Appartement,100,4
+457,275 000,4 297 ,69003, Lyon 3e (Villette - Paul Bert),Appartement,64,3
+458,385 000,4 010 ,67120, Dorlisheim,Appartement,96,5
+459,405 000,405 0,69009, Lyon 9e (Saint-Rambert),Appartement,92,4
+460,475 000,4 750 ,78340, Les Clayes-sous-Bois (Ouest),Maison,100,5
+461,227 000,3 402 ,06400, Cannes,Appartement,65,3
+462,320 000,2 092 ,32200, Gimont,Maison,153,5
+463,67 000,3 095 ,34000, Montpellier (Gares),Appartement,22,1
+464,187 500,1 316 ,33440, Ambarès-et-Lagrave (Centre-ville - Lagrave - Les Erables - Chêne Vert),Maison,133,6
+465,997 000,"14,4k ",33120, Arcachon (Centre-ville - La Chapelle - Gare),Appartement,69,2
+466,660 000,6 408 ,83400, Hyères (Costebelle - Almanarre),Maison,103,5
+467,560 000,4 058 ,33800, Bordeaux (Capucins - Saint-Michel),Appartement,138,4
+468,385 000,4 278 ,69100, Villeurbanne (Les Poulettes),Appartement,90,4
+469,232 000,2 522 ,21121, Fontaine-lès-Dijon,Appartement,92,5
+470,1 120 000,5 320 ,06790, Aspremont,Maison,200,6
+471,177 500,3 899 ,34000, Montpellier (Gares),Appartement,46,2
+472,225 000,1 706 ,47000, Agen (Les Pins - Henri Barbusse),Maison,132,5
+473,1 000 000,8 042 ,75015, Paris 15e (Alleray - Procession),Appartement,120,4
+474,228 000,1 701 ,01390, Saint-Jean-de-Thurigneux,Maison,134,5
+475,190 000,1 696 ,52000, Chaumont (Brottes - Pershing - Barizien - Anne Marie),Maison,112,5
+476,282 000,1 324 ,28190, Saint-Georges-sur-Eure,Maison,213,7
+477,572 000,5 979 ,05000, Gap,Maison,92,4
+478,242 000,8 915 ,92100, Boulogne-Billancourt (Silly - Gallieni),Appartement,26,1
+479,190 000,1 440 ,66000, Perpignan (Saint-Martin),Appartement,125,4
+480,568 500,5 292 ,06200, Nice (Fabron),Appartement,107,4
+481,297 000,3 264 ,31520, Ramonville-Saint-Agne,Appartement,91,3
+482,246 500,2 433 ,89100, Saint-Clément,Maison,101,3
+483,540 000,4 000 ,69002, Lyon 2e (Bellecour - Carnot),Duplex,135,4
+484,480 000,480 0,38000, Grenoble (Notre-Dame - Mutualité),Appartement,124,4
+485,825 000,3 354 ,31200, Toulouse (Lalande),Maison,246,8
+486,414 000,9 091 ,75014, Paris 14e (Pernety),Appartement,44,2
+487,478 400,478 4,67190, Gresswiller,Maison,148,5
+488,262 000,3 125 ,69210, Sain-Bel,Appartement,80,3
+489,180 000,2 857 ,21110, Genlis,Maison,63,3
+490,112 000,1 244 ,68140, Gunsbach,Appartement,90,1
+491,390 000,4 333 ,83440, Fayence,Maison,90,3
+492,28 000,452 ,68160, Sainte-Marie-aux-Mines,Appartement,62,2
+493,33 000,448 ,68160, Sainte-Marie-aux-Mines,Appartement,74,3
+494,64 900,909 ,68160, Sainte-Marie-aux-Mines,Appartement,66,3
+495,149 000,149 0,38570, Goncelin,Appartement,67,4
+496,420 000,4 494 ,94550, Chevilly-Larue (Bretagne),Maison,89,5
+497,210 000,3 443 ,69005, Lyon 5e (Champvert - Gorge de Loup),Appartement,61,3
+498,1 442 000,"14,9k ",75007, Paris 7e (Champ de Mars),Appartement,94,3
+499,395 000,7 380 ,06100, Nice (Carabacel),Appartement,54,2
+500,115 000,1 211 ,47000, Agen (Gare),Appartement,95,4
+501,231 000,231 0,78330, Fontenay-le-Fleury (Hôtel de ville),Appartement,75,4
+502,307 000,3 266 ,21000, Dijon (Perrières),Appartement,94,4
+503,315 000,2 925 ,22100, Dinan,Appartement,106,4
+504,459 000,4 290 ,66750, Saint-Cyprien (Le Collège),Appartement,107,4
+505,415 000,4 611 ,69150, Décines-Charpieu (Charpieu),Maison,90,6
+506,150 000,3 906 ,34170, Castelnau-le-Lez (Mendras - Zone d'activité La Garrigue),Appartement,38,2
+507,460 000,8 364 ,92130, Issy-les-Moulineaux (Centre-ville - Corentin Celton - Les Varennes),Appartement,55,3
+508,699 000,7 031 ,75017, Paris 17e (Champerret - Berthier),Appartement,98,4
+509,127 000,3 273 ,34000, Montpellier (Estanove),Appartement,39,2
+510,389 000,6 483 ,69006, Lyon 6e (Tête d'Or - Vitton),Appartement,60,3
+511,580 000,5 472 ,69110, Sainte-Foy-lès-Lyon (La Plaine - Chantegrillet),Maison,106,3
+512,350 000,5 234 ,92230, Gennevilliers (Chandon - Brenu),Appartement,64,3
+513,229 000,2 498 ,39160, Saint-Amour,Maison,88,3
+514,275 600,3 097 ,31620, Labastide-Saint-Sernin,Maison,89,4
+515,397 000,4 563 ,40660, Messanges,Maison,87,4
+516,1 000 000,4 878 ,78500, Sartrouville (Les Dix Arpents),Maison,205,10
+517,165 000,3 691 ,94320, Thiais (Clury - Victor Hugo),Appartement,42,2
+518,255 000,2 742 ,01370, Saint-Étienne-du-Bois,Maison,93,4
+519,374 400,4 587 ,77600, Bussy-Saint-Georges (Les Scientifiques),Appartement,82,4
+520,440 000,2 933 ,69003, Lyon 3e (Voltaire - Part Dieu),Appartement,150,7
+521,188 000,3 615 ,01390, Civrieux,Appartement,52,2
+522,69 760,538 ,67420, Saint-Blaise-la-Roche,Maison,119,4
+523,90 000,90 0,67600, Ebersheim,Appartement,33,1
+524,159 950,1 974 ,67190, Mutzig,Maison,76,3
+525,229 000,2 290 ,67600, Ebersheim,Appartement,100,4
+526,243 800,2 233 ,67130, Lutzelhouse,Maison,103,5
+527,275 000,3 058 ,67560, Rosheim,Appartement,86,4
+528,299 900,3 131 ,67130, Russ,Maison,91,5
+529,320 000,320 0,67280, Urmatt,Maison,132,5
+530,350 000,3 684 ,69003, Lyon 3e (Villette - Paul Bert),Appartement,95,5
+531,197 000,1 368 ,87800, Nexon,Maison,144,5
+532,289 000,3 400 ,69200, Vénissieux (Centre-ville),Appartement,85,4
+533,1 185 000,1 185 0,75016, Paris 16e (Passy - Maison de la Radio - Muette-Sud),Appartement,100,4
+534,400 000,3 810 ,93600, Aulnay-sous-Bois (Prevoyant - Le Parc),Maison,105,6
+535,395 000,4 647 ,33000, Bordeaux (Pellegrin - Chaban-Delmas),Appartement,85,3
+536,121 000,1 658 ,87100, Limoges (Aurence - Corgnac - Cité universitaire - Beaublanc),Maison,73,4
+537,175 000,4 730 ,69002, Lyon 2e (Perrache - Confluence),Appartement,37,2
+538,171 000,2 085 ,76340, Blangy-sur-Bresle,Maison,82,5
+539,266 000,1 621 ,03300, Creuzier-le-Vieux,Maison,164,6
+540,248 000,2 557 ,69008, Lyon 8e (La Plaine - Santy),Appartement,97,4
+541,385 000,8 837 ,75018, Paris 18e (Grandes Carrières - Clichy),Appartement,43,4
+542,260 000,"12,5k ",75116, Paris 16e (Muette-Nord - Trocadéro),Studio,20,
+543,270 000,5 510 ,69007, Lyon 7e (Jean Macé),Appartement,49,2
+544,399 000,4 750 ,69008, Lyon 8e (Monplaisir),Appartement,84,4
+545,550 000,6 111 ,69003, Lyon 3e (Mutualité - Préfecture - Moncey),Appartement,90,4
+546,135 000,871 ,58410, Entrains-sur-Nohain,Maison,155,7
+547,425 000,4 427 ,69270, Cailloux-sur-Fontaines,Maison,96,5
+548,349 000,4 363 ,69300, Caluire-et-Cuire (Margnolles - Rhône),Appartement,80,3
+549,236 000,4 069 ,34070, Montpellier (Croix d'Argent),Appartement,58,3
+550,122 000,935 ,65600, Séméac,Maison,123,6
+551,74 500,1 620 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,46,2
+552,495 000,495 0,57100, Thionville (Guentrange),Maison,197,9
+553,165 000,3 235 ,44300, Nantes (Longchamp - Rond-Point de Rennes - Perverie - Américains),Appartement,51,2
+554,263 000,4 109 ,67120, Dorlisheim,Appartement,64,3
+555,308 000,3 850 ,67120, Dorlisheim,Appartement,80,4
+556,405 000,3 857 ,67120, Dorlisheim,Appartement,105,5
+557,892 500,2 361 ,88490, Provenchères-sur-Fave,Maison,360,10
+558,89 000,2 472 ,69170, Tarare,Appartement,36,2
+559,189 000,2 605 ,47000, Agen (Jean Jaurès),Appartement,73,3
+560,383 500,383 5,94400, Vitry-sur-Seine (Coteau - Malassis),Maison,70,4
+561,440 000,4 783 ,69100, Villeurbanne (Les Poulettes),Appartement,92,4
+562,189 000,2 864 ,69500, Bron,Appartement,66,3
+563,530 000,5 248 ,13210, Saint-Rémy-de-Provence,Maison,101,3
+564,770 000,6 744 ,94100, Saint-Maur-des-Fossés (Parc de Saint-Maur),Appartement,114,5
+565,210 000,1 200 ,52000, Chaumont (Centre-ville - Faubourg),Maison,175,8
+566,210 000,3 333 ,42100, Saint-Étienne (Saint-Roch - Vivaraize - Valbenoite - Centre Deux),Maison,63,3
+567,349 000,4 170 ,13010, Marseille 10e (Menpenti),Appartement,84,3
+568,499 000,3 929 ,69440, Chabanière,Maison,127,5
+569,295 000,4 214 ,69008, Lyon 8e (Laënnec - Mermoz),Appartement,70,3
+570,139 000,2 206 ,21000, Dijon (Drapeau - Maladière),Appartement,63,3
+571,299 000,3 563 ,78280, Guyancourt (Le Parc - Les Saules),Appartement,80,4
+572,430 000,4 943 ,69006, Lyon 6e (Les Brotteaux),Appartement,87,4
+573,87 500,87 5,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,37,2
+574,236 900,236 9,85000, La Roche-sur-Yon (Le Bourg sous la Roche),Maison,107,5
+575,3 980 000,"14,2k ",06300, Nice (Le Port),Appartement,280,10
+576,219 000,4 867 ,69004, Lyon 4e (Ouest des Pentes),Appartement,45,2
+577,246 000,2 809 ,44300, Nantes (Eraudière - La Marrière - Rond-point de Paris),Appartement,84,4
+578,540 000,5 870 ,69008, Lyon 8e (Sans Souci - Dauphiné),Appartement,92,5
+579,685 000,4 281 ,84320, Entraigues-sur-la-Sorgue,Maison,160,6
+580,99 000,1 253 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Appartement,79,3
+581,549 000,5 505 ,94400, Vitry-sur-Seine (Coteau - Malassis),Maison,95,6
+582,555 000,6 033 ,13008, Marseille 8e (Pointe Rouge),Maison,92,4
+583,640 000,4 885 ,35000, Rennes (Moulin du Comte),Maison,130,5
+584,990 000,6 600 ,69760, Limonest,Maison,150,4
+585,350 000,3 977 ,69890, La Tour-de-Salvagny,Appartement,88,4
+586,229 900,229 9,06110, Le Cannet (Bas Cannet),Appartement,57,2
+587,398 000,9 575 ,75014, Paris 14e (Didot - Porte de Vanves),Appartement,40,2
+588,1 690 000,"10,3k ",75014, Paris 14e (Pernety),Duplex,160,6
+589,79 500,3 313 ,21000, Dijon (Montchapet),Appartement,24,2
+590,246 190,3 615 ,78180, Montigny-le-Bretonneux (La Sourderie Nord),Appartement,65,3
+591,400 000,6 154 ,06500, Menton (Haut Borrigo - Saint-Paul-Garavan - Vallée de Gorbio),Appartement,65,2
+592,268 000,268 0,06000, Nice (Carré d'or),Appartement,36,2
+593,84 000,1 953 ,24000, Périgueux (Saint-Georges),Appartement,43,2
+594,132 000,1 707 ,24000, Périgueux (Centre-ville - La Gare - Saint-Martin),Appartement,77,4
+595,191 900,4 705 ,85800, Saint-Gilles-Croix-de-Vie,Maison,38,2
+596,645 000,645 0,01390, Saint-André-de-Corcy,Maison,210,8
+597,375 000,2 246 ,01480, Messimy-sur-Saône,Maison,167,7
+598,519 000,5 703 ,69009, Lyon 9e (Vaise - Rochecardon),Appartement,91,4
+599,88 500,1 738 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,51,2
+600,88 500,1 849 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,48,2
+601,93 000,1 431 ,87000, Limoges (Bénédictins - Montplaisir),Appartement,65,3
+602,790 000,8 587 ,06160, Antibes (Antibes-les-Pins - Trianon - Le Fournel - Peyregoue),Appartement,92,4
+603,260 000,260 0,06100, Nice (Saint-Sylvestre),Appartement,64,3
+604,100 000,1 031 ,01450, Poncin,Maison,97,4
+605,215 000,2 680 ,78390, Bois-d'Arcy (La Croix Blanche),Appartement,80,4
+606,530 000,4 510 ,69380, Châtillon,Maison,114,5
+607,350 000,2 308 ,73470, Novalaise,Maison,152,7
+608,780 000,6 500 ,94120, Nogent-sur-Marne (Les Viselets),Maison,120,4
+609,230 000,1 111 ,52260, Faverolles,Maison,207,6
+610,640 000,4 267 ,06390, Contes,Maison,150,6
+611,527 850,3 105 ,44880, Sautron,Maison,170,6
+612,139 000,2 666 ,34990, Juvignac,Appartement,49,2
+613,644 000,9 538 ,75015, Paris 15e (Alleray - Procession),Appartement,65,3
+614,250 000,2 336 ,38230, Pont-de-Chéruy,Maison,107,4
+615,212 000,2 946 ,44600, Saint-Nazaire (Nord),Maison,68,4
+616,850 000,8 500 ,94210, La Varenne-Saint-Hilaire (Les Mûriers),Maison,100,4
+617,1 599 000,"10,4k ",06100, Nice (Pessicart),Maison,154,7
+618,850 000,"10,5k ",75017, Paris 17e (La Fourche - Guy Moquet),Appartement,81,4
+619,175 000,2 612 ,69200, Vénissieux (Jules Guesde),Appartement,67,4
+620,93 300,1 510 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,62,3
+621,699 000,7 061 ,06000, Nice (Cimiez),Appartement,99,4
+622,75 000,3 972 ,34080, Montpellier (Celleneuve),Appartement,19,1
+623,93 500,1 396 ,42300, Roanne (Centre-ville - Varenne),Appartement,67,4
+624,185 000,5 286 ,69007, Lyon 7e (Guillotière),Appartement,35,1
+625,120 000,1 333 ,43320, Saint-Jean-de-Nay,Maison,90,4
+626,649 000,9 141 ,69008, Lyon 8e (Monplaisir),Maison,71,3
+627,126 000,2 333 ,21000, Dijon (Centre-ville),Appartement,54,3
+628,900 000,4 955 ,73100, Aix-les-Bains (Est),Maison,182,6
+629,270 000,2 523 ,35580, Saint-Senoux,Maison,107,6
+630,98 000,1 289 ,21300, Chenôve (Chenôve),Appartement,76,4
+631,830 000,5 685 ,69600, Oullins (Golf - Célestins),Maison,146,5
+632,350 000,3 153 ,06390, Châteauneuf-Villevieille,Maison,111,4
+633,399 000,3 069 ,69390, Charly,Appartement,130,4
+634,990 000,"11,6k ",75007, Paris 7e (Champ de Mars),Duplex,82,4
+635,588 000,588 0,83600, Bagnols-en-Forêt,Maison,125,5
+636,750 000,5 435 ,78500, Sartrouville (La Vaudoire Centre-ville),Maison,138,6
+637,380 000,380 0,94210, Saint-Maur-des-Fossés (La Varenne),Appartement,47,2
+638,159 500,3 544 ,78370, Plaisir,Appartement,45,2
+639,60 500,1 320 ,42300, Roanne (Mulsant),Appartement,46,2
+640,83 300,1 799 ,47000, Agen (Capelette - Agen Sud),Appartement,46,2
+641,99 000,1 597 ,49300, Cholet (Gambetta),Appartement,62,4
+642,449 900,4 361 ,74550, Perrignier,Maison,103,4
+643,300 000,3 797 ,69100, Villeurbanne (Zola - Pressence),Appartement,79,4
+644,159 900,3 402 ,34200, Sète (Centre-ville),Appartement,47,3
+645,328 000,2 955 ,01800, Meximieux,Maison,111,4
+646,490 000,4 712 ,69008, Lyon 8e (Grand Trou - Moulin à vent - Petite Guille),Appartement,104,4
+647,157 500,3 938 ,78340, Les Clayes-sous-Bois (Centre-ville),Appartement,40,2
+648,82 000,1 519 ,24000, Périgueux,Appartement,54,3
+649,169 000,2 433 ,69250, Neuville-sur-Saône,Appartement,67,3
+650,510 000,4 766 ,33600, Pessac (CCLAPS - La Châtaigneraie),Maison,107,5
+651,198 000,1 650 ,63550, Saint-Rémy-sur-Durolle,Maison,120,7
+652,295 000,2 682 ,63000, Clermont-Ferrand (Jaude - Fontgiève Saint-Alyre),Maison,110,6
+653,89 500,2 024 ,29000, Quimper (Centre-ville),Appartement,42,3
+654,389 550,2 647 ,85270, Notre-Dame-de-Riez,Maison,140,6
+655,305 000,7 438 ,93100, Montreuil (Bas Montreuil - Etienne Marcel - Chanzy),Appartement,40,2
+656,1 135 000,7 993 ,92150, Suresnes (Liberté),Maison,142,6
+657,123 900,3 411 ,85270, Saint-Hilaire-de-Riez (Caillaudières - Le Trou du Diable - Pradelle - Bussoleries),Appartement,34,2
+658,315 000,4 846 ,69100, Villeurbanne (Grand Clément),Appartement,65,3
+659,99 000,1 100 ,42000, Saint-Étienne (Montaud),Appartement,90,5
+660,185 000,2 202 ,06340, Drap,Appartement,84,4
+661,35 000,1 865 ,87000, Limoges (Louyat),Studio,19,
+662,630 000,5 374 ,92000, Nanterre (Parc Nord),Appartement,117,5
+663,240 000,3 380 ,33700, Mérignac (Saint-Augustin),Appartement,71,3
+664,185 000,2 795 ,77100, Meaux (Beauval Colbert),Appartement,66,3
+665,249 900,3 352 ,94600, Choisy-le-Roi (Centre-ville - Parc Prairie - Hautes Bornes),Appartement,71,3
+666,215 000,3 634 ,66140, Canet-en-Roussillon (Le Port nautique - Europa),Maison,56,3
+667,55 500,1 469 ,29000, Quimper (Penhars - Penanguer - Corniguel),Appartement,38,1
+668,225 000,4 447 ,92600, Asnières-sur-Seine (Coubertin),Appartement,51,2
+669,940 000,5 140 ,78280, Guyancourt (Zones d'activités - Hameau de Bouviers - Hameau de la Minière),Maison,179,8
+670,379 900,5 936 ,06000, Nice (Gambetta),Appartement,64,3
+671,59 000,2 107 ,87100, Limoges (La Bastide - La Brégère),Appartement,28,1
+672,212 000,5 002 ,92270, Bois-Colombes (Jean Mermoz),Appartement,42,2
+673,89 000,89 0,10200, Bar-sur-Aube,Maison,235,8
+674,66 000,1 639 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,40,2
+675,450 000,3 309 ,01390, Tramoyes,Maison,136,7
+676,198 000,1 179 ,04370, Colmars,Maison,168,9
+677,390 000,4 432 ,69007, Lyon 7e (Guillotière),Appartement,88,4
+678,220 000,220 0,21000, Dijon (Toison d'Or),Appartement,67,3
+679,442 000,2 931 ,31830, Plaisance-du-Touch (Bourgogne - Terris - Traverse - La Hille),Maison,145,6
+680,435 000,3 566 ,06440, Peillon,Maison,122,4
+681,66 000,1 219 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Appartement,54,3
+682,52 000,1 294 ,87000, Limoges (CHU),Appartement,40,2
+683,77 000,1 100 ,87230, Flavignac,Maison,70,3
+684,430 500,6 183 ,78870, Bailly,Appartement,66,3
+685,139 990,3 111 ,66750, Saint-Cyprien (Village - Zone d'Activité),Appartement,45,2
+686,670 000,3 131 ,01480, Jassans-Riottier,Maison,214,7
+687,450 000,4 245 ,69970, Chaponnay,Maison,106,5
+688,375 000,1 042 ,03450, Lalizolle,Maison,360,14
+689,299 000,2 990 ,21200, Beaune (Madeleine),Maison,100,4
+690,172 000,172 0,34080, Montpellier (Croix d'Argent),Appartement,40,2
+691,299 000,2 265 ,21800, Sennecey-lès-Dijon,Maison,132,7
+692,195 000,3 104 ,21200, Beaune (Maladière),Maison,63,4
+693,630 000,14k ,06000, Nice (Carré d'or),Appartement,43,3
+694,175 600,1 908 ,63200, Riom (Centre-ville),Appartement,92,4
+695,375 000,4 167 ,69400, Porte des Pierres Dorées,Maison,90,5
+696,132 000,1 211 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Maison,109,5
+697,80 000,1 231 ,63100, Clermont-Ferrand (Croix de Neyrat),Appartement,65,3
+698,60 000,857 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Appartement,70,3
+699,449 500,5 568 ,92130, Issy-les-Moulineaux (Les Epinettes - Le Fort - Les Hauts d'Issy),Appartement,78,3
+700,106 000,1 683 ,87270, Couzeix,Appartement,63,3
+701,179 990,2 399 ,78370, Plaisir (Ebisoires),Appartement,72,3
+702,72 000,1 588 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,45,2
+703,155 000,2 818 ,38300, Bourgoin-Jallieu (L'Oiselet - La Maladière - La Grive),Appartement,55,3
+704,114 000,114 0,47000, Agen (Les Pins - Henri Barbusse),Appartement,51,3
+705,4 700 000,"16,4k ",06230, Villefranche-sur-Mer,Maison,286,8
+706,800 000,800 0,75015, Paris 15e (Alleray - Procession),Appartement,90,4
+707,389 000,4 863 ,33000, Bordeaux (Saint-Pierre),Appartement,80,3
+708,69 900,1 485 ,47200, Marmande (Le Bedat),Appartement,47,2
+709,320 000,2 025 ,38130, Échirolles (Village - La Commanderie),Maison,158,7
+710,55 000,1 197 ,24100, Bergerac (Clairat - L'Alba - Les Costes),Appartement,46,2
+711,140 000,2 917 ,63610, Besse-et-Saint-Anastaise,Appartement,48,4
+712,395 000,395 0,01330, Villars-les-Dombes,Maison,176,7
+713,158 000,2 144 ,01000, Bourg-en-Bresse (Grande Reyssouze - Grand Challes),Appartement,70,2
+714,76 000,241 ,52190, Cusey,Maison,315,2
+715,199 000,943 ,21510, Aignay-le-Duc,Maison,211,6
+716,249 000,958 ,52000, Chaumont (Centre-ville - Faubourg),Maison,260,7
+717,299 000,"11,8k ",06190, Roquebrune-Cap-Martin (Cabbé - Saint-Roman - Roquebrune),Appartement,25,1
+718,419 000,419 0,22380, Saint-Cast-le-Guildo,Maison,194,6
+719,247 300,3 637 ,34750, Villeneuve-lès-Maguelone,Appartement,68,3
+720,118 000,1 683 ,47200, Marmande (Lolya),Maison,70,3
+721,449 500,5 568 ,92130, Issy-les-Moulineaux (Les Epinettes - Le Fort - Les Hauts d'Issy),Appartement,78,4
+722,53 000,707 ,23000, Guéret (Centre-ville - La Rodde - Champegaud),Appartement,75,3
+723,87 000,1 726 ,42153, Riorges,Appartement,50,3
+724,66 000,1 535 ,87000, Limoges (Centre-ville - Hôtel de Ville - Emailleurs),Appartement,43,2
+725,760 000,7 508 ,06300, Nice (Mont-Boron),Appartement,101,3
+726,61 000,61 0,63200, Riom (Centre-ville),Appartement,38,1
+727,83 000,83 0,63200, Riom (Centre-ville),Appartement,62,3
+728,420 000,2 366 ,78711, Mantes-la-Ville (Merisiers - Plaisances - Belles Lances),Maison,178,8
+729,1 190 000,8 095 ,06210, Mandelieu-la-Napoule (Les Termes),Appartement,140,5
+730,57 500,1 678 ,42000, Saint-Étienne (Tardy - Colline des Pères - Bizillon),Appartement,34,1
+731,89 000,1 281 ,42000, Saint-Étienne (Tardy - Colline des Pères - Bizillon),Appartement,70,3
+732,48 000,48 0,63200, Riom (Centre-ville),Appartement,24,1
+733,6 500 000,"30,8k ",06230, Villefranche-sur-Mer,Maison,211,5
+734,295 000,2 565 ,68200, Mulhouse (Bourtzwiller),Maison,115,5
+735,66 000,647 ,71110, Chambilly,Maison,102,5
+736,145 000,1 603 ,42120, Le Coteau,Appartement,90,4
+737,545 000,3 406 ,42370, Renaison,Maison,160,6
+738,170 000,170 0,30900, Nîmes (Vacquerolles - Golf),Appartement,55,2
+739,227 500,1 750 ,49125, Tiercé,Maison,130,6
+740,589 375,4 792 ,78180, Montigny-le-Bretonneux (Le Manet),Maison,120,6
+741,659 000,6 292 ,69008, LYON (Bachut - Transvaal),INTERFACE,105,5
+742,245 000,4 900 ,69100, VILLEURBANNE (Léon Blum - Bon Coin),N.,50,2
+743,570 000,8 143 ,92130, Issy-les-Moulineaux (Les Iles - La Ferme),Appartement,70,3
+744,159 900,2 710 ,29200, Brest (Kerbernard - Pen-ar-Creac'h),Appartement,59,3
+745,470 000,5 281 ,20000, Ajaccio (Les Sanguinaires),Duplex,89,4
+746,179 000,4 595 ,94320, Thiais (Pavé de Grignon),Appartement,37,2
+747,740 000,"10,6k ",06300, Nice (Mont-Boron),Appartement,70,3
+748,580 000,6 744 ,13008, Marseille 8e (Le Rouet),Maison,86,4
+749,367 500,4 773 ,78450, Villepreux,Maison,77,4
+750,634 000,6 469 ,93100, Montreuil (Bas Montreuil - Etienne Marcel - Chanzy),Appartement,98,4
+751,143 000,1 144 ,47230, Lavardac,Maison,125,5
+752,620 000,2 348 ,69420, Condrieu,Maison,264,7
+753,77 000,1 041 ,66000, Perpignan (Les Remparts),Appartement,74,4
+754,230 000,7 188 ,69006, Lyon 6e (Les Brotteaux),Appartement,32,1
+755,595 000,9 154 ,92100, Boulogne-Billancourt (Silly - Gallieni),Appartement,65,3
+756,317 500,1 814 ,67600, Muttersholtz,Maison,175,7
+757,562 680,9 643 ,75014, Paris 14e (Pernety),Appartement,56,3
+758,52 000,1 268 ,58640, Varennes-Vauzelles,Appartement,41,2
+759,127 000,2 775 ,69100, Villeurbanne (Ferrandière - Maisons Neuves),Appartement,46,2
+760,239 000,2 439 ,01660, Mézériat,Maison,98,4
+761,237 000,1 823 ,30900, Nîmes (Montaury),Maison,130,5
+762,268 000,"10,7k ",92200, Neuilly-sur-Seine (Parc de Neuilly),Appartement,23,1
+763,165 700,1 342 ,72160, Thorigné-sur-Dué,Maison,123,6
+764,265 000,2 409 ,76150, Saint-Jean-du-Cardonnay,Maison,110,4
+765,299 000,5 642 ,34280, La Grande-Motte (Centre-ville - Port),Appartement,53,2
+766,261 000,3 263 ,91360, Épinay-sur-Orge,Appartement,80,4
+767,270 000,3 857 ,94500, Champigny-sur-Marne (Le Plateau),Appartement,70,3
+768,289 000,4 446 ,77600, Bussy-Saint-Georges (Violennes - Village),Appartement,65,3
+769,295 000,4 214 ,77600, Bussy-Saint-Georges (Violennes - Village),Appartement,70,3
+770,370 000,3 700 ,77500, Chelles (Centre-ville - Gare - Abbesses),RETOUR,100,5
+771,370 000,4 022 ,77144, Montévrain,Magnifique,92,4
+772,370 000,4 022 ,77700, Chessy,Magnifique,92,4
+773,410 000,4 556 ,77290, Mitry-Mory (Mitry-Mory 1),Sublime,90,4
+774,540 000,5 870 ,94500, Champigny-sur-Marne (Centre-ville - Coteaux),Frais,92,4
+775,686 000,7 969 ,92140, Clamart (Gare),Appartement,86,4
+776,1 133 500,9 291 ,67000, Strasbourg (Wacken),APPARTEMENT,122,3
+777,638 600,9 394 ,92300, Levallois-Perret (Eiffel),Appartement,66,3
+778,830 000,5 355 ,78240, Chambourcy,Maison,155,7
+779,990 000,5 500 ,06200, Nice (Fabron),Maison,180,8
+780,248 000,3 815 ,69100, Villeurbanne (Cusset),Appartement,65,4
+781,320 000,10k ,92200, Neuilly-sur-Seine (Parc de Neuilly),Appartement,32,1
+782,695 000,4 633 ,33200, Bordeaux (Monséjour - Marly),Maison,150,6
+783,850 000,"11,2k ",75018, Paris 18e (Grandes Carrières - Clichy),Appartement,76,3
+784,55 000,744 ,58300, Saint-Léger-des-Vignes,Maison,74,3
+785,180 000,2 176 ,47450, Colayrac-Saint-Cirq,Maison,83,4
+786,189 000,2 261 ,47450, Colayrac-Saint-Cirq,Maison,84,4
+787,935 000,"10,7k ",75014, Paris 14e (Montparnasse - Raspail),Appartement,84,4
+788,208 000,2 311 ,38150, Agnin,Appartement,90,5
+789,870 000,8 241 ,78000, Versailles (Saint-Louis),Appartement,102,4
+790,295 000,2 810 ,77950, Rubelles,Maison,105,5
+791,108 500,804 ,42460, Coutouvre,Maison,135,7
+792,1 090 000,5 924 ,69003, Lyon 3e (Monchat),Maison,184,8
+793,279 000,"17,4k ",75007, Paris 7e (Champ de Mars),Appartement,16,1
+794,445 000,12k ,75009, Paris 9e (Trudaine - Rochechouart),Appartement,37,2
+795,475 000,9 896 ,75018, Paris 18e (Jules Joffrin),Appartement,48,2
+796,635 000,8 335 ,75015, Paris 15e (Alleray - Procession),Appartement,75,3
+797,750 000,"11,2k ",75009, Paris 9e (Grands Boulevards),Appartement,67,3
+798,128 000,2 857 ,78300, Poissy (Beauregard),Appartement,42,2
+799,1 512 000,"13,5k ",nice ,Nice (Promenade des Anglais - Rue de France),Appartement,104,3
+800,69 000,1 513 ,24660, Coulounieix-Chamiers,Appartement,46,2
+801,73 700,2 062 ,24000, Périgueux (Centre-ville - La Gare - Saint-Martin),Appartement,36,2
+802,265 000,2 880 ,01290, Grièges,Maison,92,4
+803,369 500,5 279 ,93330, Neuilly-sur-Marne (24 Arpents),Magnifique,70,4
+804,385 600,4 284 ,93150, Le Blanc-Mesnil (Centre - Tilleuls),RETOUR,90,4
+805,437 738,4 864 ,93300, Aubervilliers (Centre-ville - Victor Hugo),RETOUR,90,4
+806,293 000,4 470 ,94000, Créteil (Côte d'Or - Sarrazins),Appartement,66,3
+807,215 000,3 162 ,01330, Villars-les-Dombes,Appartement,68,3
+808,287 000,3 337 ,67500, Haguenau (Metzgerhof),MAISON,86,4
+809,290 000,3 867 ,67112, Breuschwickersheim,PETITE,75,3
+810,320 800,3 564 ,67117, Handschuheim,DUPLEX,90,4
+811,346 000,4 071 ,67500, Haguenau (Schloessel - Château Fiat),GRAND,85,4
+812,351 000,3 900 ,67118, Geispolsheim,Maison,90,4
+813,724 200,5 571 ,67300, Schiltigheim (Vieux Schilick - Centre-ville - Nouvelle Cité),115m²,130,5
+814,369 000,3 690 ,97111, Morne-à-l'Eau,Maison,100,4
+815,385 000,2 873 ,34420, Cers,Maison,134,5
+816,183 000,5 382 ,93160, Noisy-le-Grand (Nord),Appartement,34,1
+817,374 365,1 800 ,22000, Saint-Brieuc (Centre-ville - Saint-Michel - Le Légué - Notre-Dame),Maison,200,7
+818,850 000,6 589 ,83500, La Seyne-sur-Mer (Est),Appartement,129,5
+819,3 200 000,"17,6k ",06230, Villefranche-sur-Mer,Maison,182,5
+820,1 200 000,7 965 ,06100, Nice (Saint-Pancrace),Maison,151,5
+821,1 296 000,"12,3k ",06000, Nice (Promenade des Anglais - Rue de France),Appartement,97,3
+822,440 000,4 314 ,92320, Châtillon (Matisse - Pierrelais),Appartement,102,4
+823,845 000,8 895 ,93100, Montreuil (Bas Montreuil - Bobillot),Maison,95,5
+824,200 000,3 571 ,93600, Aulnay-sous-Bois (Ouest Edgar Degas),Appartement,56,3
+825,398 000,3 367 ,69003, Lyon 3e (Monchat),Appartement,118,5
+826,449 500,4 833 ,94700, Maisons-Alfort (Centre-ville),Appartement,93,4
+827,265 000,1 934 ,42540, Saint-Just-la-Pendue,Maison,137,5
+828,248 000,2 481 ,83000, Toulon (Haute-ville),Appartement,100,5
+829,440 000,9 773 ,75012, Paris 12e (Jardin de Reuilly),Appartement,44,3
+830,2 650 000,"13,9k ",06000, Nice (Mont-Boron),Maison,190,6
+831,240 000,9 324 ,75011, Paris 11e (Léon-Blum - Folie-Regnault),Appartement,25,1
+832,398 000,3 373 ,38000, Grenoble (Championnet),Appartement,118,4
+833,230 000,3 286 ,69100, Villeurbanne,Appartement,70,3
+834,289 000,1 868 ,57000, Metz (Magny),Maison,147,6
+835,150 000,3 019 ,63610, Besse-et-Saint-Anastaise,Appartement,50,4
+836,180 000,3 600 ,44300, Nantes (La Jonelière - Le Petit Port),Appartement,50,2
+837,358 900,3 323 ,44800, Saint-Herblain (Nord),Maison,108,6
+838,675 000,9 155 ,75014, Paris 14e (Pernety),Appartement,71,3
+839,148 000,3 610 ,21000, Dijon (Centre-ville),Appartement,41,2
+840,579 000,"10,7k ",75017, Paris 17e (Legendre - Lévis),Appartement,54,3
+841,152 250,1 218 ,72300, Juigné-sur-Sarthe,Maison,119,4
+842,346 500,3 047 ,44200, Nantes (Ile de Nantes),Appartement,108,4
+843,340 000,5 231 ,06200, Nice (Caucade),Appartement,65,3
+844,265 000,3 397 ,66000, Perpignan (La Gare),Maison,78,4
+845,660 000,6 346 ,06000, Nice (Thiers - Musicien),Appartement,104,4
+846,49 000,1 000 ,42000, Saint-Étienne (Tardy - Colline des Pères - Bizillon),Appartement,49,2
+847,82 850,1 479 ,42000, Saint-Étienne (Crêt de Roc),Appartement,56,2
+848,1 280 000,5 814 ,75015, Paris 15e (Alleray - Procession),Appartement,215,5
+849,239 000,8 852 ,92100, Boulogne-Billancourt (Silly - Gallieni),Appartement,27,2
+850,303 000,3 788 ,69200, Vénissieux (Parilly),GRAND,80,4
+851,354 000,4 726 ,95170, Deuil-la-Barre (Mortefontaines),Appartement,75,4
+852,354 000,4 726 ,95170, Deuil-la-Barre (Mortefontaines),Appartement,75,4
+853,592 000,5 920 ,69200, Vénissieux (Parilly),GRAND,100,5
+854,655 000,7 596 ,69006, Lyon 6e (Les Brotteaux),SECTEUR,86,4
+855,659 000,6 590 ,69110, Sainte-Foy-lès-Lyon (La Plaine - Chantegrillet),LIVRAISON,100,4
+856,705 000,5 551 ,69008, Lyon 8e (Grand Trou - Moulin à vent - Petite Guille),MOULIN,127,5
+857,1 100 000,"10,1k ",69006, Lyon 6e (Les Brotteaux),SECTEUR,109,5
+858,296 000,5 193 ,93100, Montreuil (Signac - Mûrs à Pêches),Appartement,57,3
+859,499 900,6 492 ,93500, Pantin (Verpantin - Sept Arpents),Appartement,77,4
+860,485 000,3 345 ,94500, Champigny-sur-Marne (Coeuilly Village Parisien),Maison,139,7
+861,220 000,6 637 ,06310, Beaulieu-sur-Mer,Studio,33,
+862,650 000,6 842 ,94340, Joinville-le-Pont (Palissy),Maison,95,4
+863,222 000,2 561 ,68200, Mulhouse (Bourtzwiller),Maison,82,4
+864,298 000,4 375 ,65100, Ossen,Maison,64,3
+865,81 000,600 ,67220, Bassemberg,Appartement,135,5
+866,635 000,5 000 ,06800, Cagnes-sur-Mer (La Gare - Les Plans - Hippodrome),Appartement,127,5
+867,515 000,9 717 ,75012, Paris 12e (Nation - Picpus),Appartement,53,3
+868,538 900,4 899 ,44100, Nantes (Canclaux - Mellinet),Maison,110,5
+869,540 000,9 818 ,75016, Paris 16e (Passy - Maison de la Radio - Muette-Sud),Appartement,55,2
+870,800 000,"10,7k ",75009, Paris 9e (Trudaine - Rochechouart),Appartement,75,3
+871,470 000,4 564 ,44000, Nantes (Doulon - Bottières - Toutes Aides - Le Grand Blottereau),Maison,99,5
+872,340 000,4 143 ,93200, Saint-Denis (Franc-Moisin - Bel-Air),Appartement,82,4
+873,525 000,6 563 ,06200, Nice (Fabron),Appartement,80,3
+874,339 000,6 780 ,06300, Nice (Le Port),Appartement,50,2
+875,425 000,4 966 ,69007, Lyon 7e (Guillotière),Appartement,86,3
+876,695 000,4 542 ,69210, Lentilly,Maison,153,6
+877,238 000,3 526 ,06300, Nice (Saint-Roch),Appartement,67,4
+878,320 000,3 299 ,06200, Nice (Sainte-Marguerite),Appartement,97,4
+879,395 000,6 594 ,06000, Nice (Gambetta),Appartement,60,3
+880,640 000,7 462 ,06000, Nice (Carré d'or),Appartement,86,3
+881,900 000,7 773 ,92100, Boulogne-Billancourt (Jean Jaurès - Reine),Appartement,110,5
+882,3 550 000,8 452 ,06000, Nice (Saint-Pierre de Feric),Maison,420,5
+883,279 000,4 429 ,69140, Rillieux-la-Pape (Ville nouvelle Sud),Appartement,63,3
+884,329 000,4 507 ,69140, Rillieux-la-Pape (Ville nouvelle Sud),Appartement,73,3
+885,475 000,4 204 ,69140, Rillieux-la-Pape (Ville nouvelle Sud),Appartement,113,4
+886,530 145,3 002 ,85160, Saint-Jean-de-Monts (Le Rozeau Gaillard),Maison,170,5
+887,380 000,6 415 ,83150, Bandol,Appartement,59,4
+888,469 000,7 200 ,94400, Vitry-sur-Seine (Port à l'Anglais - Zone d'activité),Maison,65,3
+889,290 000,3 210 ,69100, Villeurbanne (Perrallière),Appartement,90,4
+890,290 000,3 210 ,69100, Villeurbanne (Perrallière),Appartement,90,4
+891,850 000,3 114 ,97141, Vieux-Fort,Maison,273,11
+892,239 000,2 459 ,77580, Crécy-la-Chapelle,Maison,93,4
+893,699 000,2 496 ,68000, Colmar (Saint-Joseph - Mittelhart),Maison,280,10
+894,379 000,3 989 ,69007, Lyon 7e (Guillotière),Appartement,95,4
+895,365 000,5 141 ,33000, Bordeaux (Saint-Pierre),Appartement,71,3
+896,300 000,6 818 ,75019, Paris 19e (Porte de la Villette),Appartement,44,2
+897,370 000,7 115 ,92110, Clichy (République - Victor Hugo),Appartement,52,3
+898,550 000,8 333 ,92800, Puteaux (Lorilleux),Appartement,66,3
+899,670 000,9 437 ,92400, Courbevoie (Bécon),Appartement,71,3
+900,780 000,3 451 ,44700, Orvault (Praudière - Berthelotière - Mulonnière),Maison,226,8
+901,795 000,8 641 ,75013, Paris 13e (Butte-aux-Cailles),Appartement,92,4
+902,490 000,5 765 ,69002, Lyon 2e (Bellecour - Carnot),Appartement,85,4
+903,90 000,6 429 ,69009, Lyon 9e (Cordeliers Bellecour),Appartement,14,1
+904,459 000,5 216 ,69001, Lyon 1er (Haut - Coeur des Pentes),Appartement,88,3
+905,148 500,1 650 ,59200, Tourcoing (Croix Rouge),Maison,90,4
+906,78 000,1 685 ,47000, Agen (Capelette - Agen Sud),Appartement,46,2
+907,180 000,4 644 ,69200, Vénissieux (Centre-ville),Appartement,39,2
+908,1 295 000,"12,6k ",06000, Nice,Appartement,103,4
+909,442 000,5 680 ,06200, Nice (Fabron),Appartement,78,3
+910,149 000,4 515 ,44000, Nantes (Centre-ville),Appartement,33,2
+911,235 000,3 310 ,44800, Saint-Herblain (Bourg),Appartement,71,3
+912,2 990 000,"20,3k ",06190, Roquebrune-Cap-Martin (Cabbé - Saint-Roman - Roquebrune),Appartement,147,4
+913,199 000,3 373 ,59000, Lille (Vauban - Esquermes),Appartement,59,2
+914,551 000,4 669 ,13009, Marseille 9e (Mazargues),Appartement,118,5
+915,125 000,2 232 ,21000, Dijon (Colombière - Parc Chevreul),Appartement,56,2
+916,720 000,8 854 ,06000, Nice (Carré d'or),Appartement,81,3
+917,56 000,1 077 ,52200, Langres,Appartement,52,3
+918,135 000,2 234 ,91240, Saint-Michel-sur-Orge (Gambetta),Appartement,60,3
+919,1 695 000,"11,9k ",06000, Nice (Saint-Philippe - Estienne d'Orves),Maison,143,5
+920,280 000,3 684 ,67380, Lingolsheim (Tiergaertel - Européen - Alouettes - Galilée - Tanneries),Terrasse,76,4
+921,240 000,3 847 ,31300, Toulouse (Patte d'Oie - Fontaines),Appartement,62,3
+922,890 000,890 0,75014, Paris 14e (Jean Moulin - Porte d'Orléans),Appartement,117,5
+923,299 250,2 905 ,44800, Saint-Herblain (Bourg),Appartement,103,4
+924,405 000,4 880 ,13008, Marseille 8e (Le Rouet),Appartement,83,4
+925,630 000,7 079 ,94100, Saint-Maur-des-Fossés (Adamville),Maison,89,4
+926,850 000,"14,2k ",75007, Paris 7e (Champ de Mars),Appartement,58,2
+927,390 000,4 194 ,69380, Lozanne,Maison,93,4
+928,255 000,5 795 ,13008, Marseille 8e (Pointe Rouge),Appartement,44,2
+929,618 000,5 708 ,83140, Six-Fours-les-Plages (Roumagnan - Talian - Audibert - Verger),Maison,108,5
+930,485 300,2 300 ,44600, Saint-Nazaire (Nord),Maison,200,7
+931,2 440 000,9 467 ,78000, Versailles (Saint-Louis),Maison,250,8
+932,850 000,"10,1k ",75014, Paris 14e (Montsouris - Dareau),Appartement,80,3
+933,450 000,"10,5k ",75003, Paris 3e (Enfants Rouges - Bretagne),Appartement,43,2
+934,299 000,2 215 ,69100, Villeurbanne (Léon Blum - Bon Coin),Duplex,135,5
+935,220 000,7 857 ,75019, Paris 19e (La Villette - Porte de Pantin),Appartement,28,1
+936,345 000,8 523 ,06190, Roquebrune-Cap-Martin (Chemin du Vallonet - Val de Gorbio - Pinella),Appartement,40,2
+937,649 000,6 500 ,75019, Paris 19e (Bassin de la Villette),Appartement,96,4
+938,295 000,4 750 ,69004, Lyon 4e (Croix Rousse Centre-ville),Appartement,62,3
+939,300 000,6 000 ,94700, Maisons-Alfort (Alfort),Appartement,50,3
+940,358 900,2 601 ,44980, Sainte-Luce-sur-Loire,Maison,138,5
+941,373 000,"16,4k ",75002, Paris 2e (Montorgueil - Etienne Marcel),Studio,22,
+942,745 000,3 043 ,76110, Bec-de-Mortagne,Maison,230,7
+943,249 500,3 564 ,92360, Meudon-la-forêt (Meudon la Forêt),Appartement,70,4
+944,283 000,4 422 ,64100, Bayonne (Mousserolles),Appartement,64,3
+945,315 000,3 987 ,69005, Lyon 5e (Champvert - Point du Jour - Jeunet),Appartement,79,3
+946,196 000,2 306 ,34500, Béziers (Garrissou - Plaisance),Maison,85,4
+947,320 000,4 692 ,78720, Cernay-la-Ville,Maison,65,4
+948,720 000,3 090 ,69640, Rivolet,Maison,233,6
+949,610 000,8 806 ,75015, Paris 15e (Georges Brassens),Appartement,67,3
+950,295 000,5 364 ,69001, Lyon 1er (Haut - Coeur des Pentes),Appartement,55,3
+951,209 000,"13,1k ",75006, Paris 6e (Rennes),Appartement,16,2
+952,217 000,3 053 ,44300, Nantes (Eraudière - La Marrière - Rond-point de Paris),Appartement,67,3
+953,399 000,4 034 ,44000, Nantes (Monselet),Appartement,94,3
+954,545 000,6 929 ,06200, Nice (Fabron),Appartement,75,3
+955,899 000,6 759 ,92700, Colombes (La Petite Garenne),Maison,133,7
+956,399 000,9 268 ,75015, Paris 15e (Alleray - Procession),Appartement,41,2
+957,300 000,"13,6k ",75007, Paris 7e (Champ de Mars),Appartement,22,1
+958,682 500,8 457 ,06000, Nice (Fabron),Appartement,81,3
+959,283 000,5 896 ,93100, Montreuil (Bel Air - Grand Pêchers),Appartement,48,1
+960,330 000,3 929 ,69300, Caluire-et-Cuire (Cuire-le-bas - Cuire-le-Haut),Appartement,84,3
+961,315 000,3 182 ,54000, Nancy (Poincaré - Foch - Anatole France - Croix de Bourgogne),Appartement,99,4
+962,436 800,2 893 ,31000, Toulouse (La Vache - La Salade),Appartement,151,5
+963,436 800,2 893 ,75000, Paris (Capitole),Appartement,151,5
+964,436 800,2 893 ,69000, Lyon (Mutualité - Préfecture - Moncey),Appartement,151,5
+965,436 800,2 893 ,34000, Montpellier (Capitole),Appartement,151,5
+966,436 800,2 893 ,33000, Bordeaux (Capitole),Appartement,151,5
+967,436 800,2 893 ,13000, Marseille (Capitole),Appartement,151,5
+968,650 000,8 784 ,06000, Nice (Centre-ville),Appartement,74,2
+969,268 900,4 093 ,66700, Argelès-sur-Mer (Jardins du Soleil - Mas Boy),Appartement,62,3
+970,137 000,1 054 ,71400, Autun (Saint-Jean - République - Gare),Appartement,130,5
+971,335 000,4 786 ,94800, Villejuif (Zola - Lion d'Or),Appartement,70,3
+972,400 000,9 302 ,75012, Paris 12e (Jardin de Reuilly),Appartement,43,3
+973,400 000,9 756 ,75017, Paris 17e (La Fourche - Guy Moquet),Appartement,41,2
+974,450 000,2 941 ,13001, Marseille 1er (Chapitre),Appartement,153,6
+975,465 000,9 118 ,75013, Paris 13e (Croulebarbe),Appartement,51,2
+976,550 000,7 746 ,75019, Paris 19e (Jourdain - Pyrénées),Appartement,71,3
+977,580 000,4 462 ,69300, Caluire-et-Cuire (Margnolles - Rhône),Appartement,130,4
+978,595 000,9 154 ,75012, Paris 12e (Nation - Picpus),Appartement,65,3
+979,600 000,9 231 ,92100, Boulogne-Billancourt (Point du Jour),Appartement,65,3
+980,840 000,9 767 ,75015, Paris 15e (Emeriau - Zola),Appartement,86,4
+981,895 000,4 597 ,69007, Lyon 7e (Guillotière),Appartement,191,6
+982,790 020,5 164 ,85800, Saint-Gilles-Croix-de-Vie,Maison,147,7
+983,207 500,1 958 ,68210, Montreux-Vieux,Maison,106,5
+984,540 000,7 490 ,93100, Montreuil (Bas Montreuil - République),Appartement,70,3
+985,415 000,4 000 ,77500, Chelles (Noue-Brossard - Perichelles - Bel Air - Clos Roger),Maison,100,5
+986,125 000,1 524 ,18000, Bourges (Centre-ville - Charlet - Lahitolle - Pignoux - Sembat),Maison,82,4
+987,319 000,4 833 ,69001, Lyon 1er (Ouest des Pentes),Appartement,66,3
+988,99 900,865 ,68100, Mulhouse (Europe - Bassin Nordfeld),Appartement,116,6
+989,188 000,4 248 ,93700, Drancy (Village Parisien),Appartement,44,2
+990,215 000,1 525 ,68100, Mulhouse (Europe - Bassin Nordfeld),Appartement,141,6
+991,349 000,3 163 ,91000, Évry-Courcouronnes (Bras de Fer),Maison,110,5
+992,409 000,3 408 ,93160, Noisy-le-Grand (Sud),Maison,120,6
+993,410 000,4 059 ,93700, Drancy (L'Economie),Maison,101,4
+994,570 000,4 456 ,31400, Toulouse (Busca - Jardin des plantes - Port Saint-Sauveur),Appartement,123,3
+995,333 000,333 0,44120, Vertou (Chapeau Berger - La Grammoire - Ville au Blanc),Maison,105,4
+996,440 000,5 185 ,95100, Argenteuil (Val Notre Dame),Maison,81,5
+997,460 000,4 741 ,94400, Vitry-sur-Seine (Le Fort),Maison,97,4
+998,529 000,3 701 ,94400, Vitry-sur-Seine (Coteau - Malassis),Maison,143,6
+999,540 000,3 776 ,93160, Noisy-le-Grand (Sud),Maison,143,6
+1000,650 000,6 628 ,92300, Levallois-Perret (Trézel),Appartement,94,5
+1001,3 449 000,"11,1k ",06400, Cannes (Suquet),Appartement,311,5
+1002,799 000,6 419 ,06200, Nice (Saint-Antoine),Appartement,124,5
+1003,499 000,2 434 ,69170, Tarare,Maison,205,5
+1004,499 000,2 434 ,69170, Tarare,Maison,205,5
+1005,995 000,"10,2k ",92300, Levallois-Perret (Front de Seine),Appartement,98,4
+1006,298 900,3 832 ,44980, Sainte-Luce-sur-Loire,Maison,78,3
+1007,659 000,5 681 ,69006, Lyon 6e (Les Brotteaux),Appartement,116,5
+1008,798 000,"15,1k ",75007, Paris 7e (Breteuil),Appartement,53,2
+1009,623 700,1 915 ,85670, Saint-Christophe-du-Ligneron,Maison,313,10
+1010,344 000,4 821 ,44000, Nantes (Hauts-Pavés - Saint-Pasquier - Saint-Félix - Université),Appartement,71,3
+1011,495 000,3 000 ,77340, Pontault-Combault (Mairie - Rouxel),Maison,165,6
+1012,365 000,5 530 ,69003, Lyon 3e (Voltaire - Part Dieu),Appartement,66,3
+1013,500 000,9 804 ,75014, Paris 14e (Pernety),Appartement,51,3
+1014,698 000,5 817 ,78100, Saint-Germain-en-Laye (Hennemont),Maison,120,7
+1015,499 900,4 385 ,93100, Montreuil (Villiers - Barbusse),Appartement,114,6
+1016,839 000,3 990 ,31100, Toulouse (Lardenne),Maison,203,6
+1017,146 000,695 ,63300, Thiers,Maison,210,7
+1018,55 000,1 204 ,58000, Nevers (Banlay),Appartement,46,2
+1019,115 000,1 860 ,82000, Montauban (Lalande),Appartement,62,3
+1020,280 600,4 252 ,67800, Bischheim (Canal - Pont Phario),Appartement,66,3
+1021,249 900,3 124 ,57070, Metz,Appartement,80,4
+1022,1 320 000,"13,7k ",06400, Cannes (Centre-ville),Appartement,96,4
+1023,98 000,1 531 ,38100, Grenoble (Malherbe - Teisseire),Appartement,64,3
+1024,110 000,1 158 ,38100, Grenoble (Villeneuve),Appartement,95,5
+1025,139 000,4 344 ,69004, Lyon 4e (Croix Rousse Est),Appartement,32,1
+1026,144 500,1 632 ,38100, Grenoble (Abbaye - Jouhaux),Appartement,89,4
+1027,148 500,3 547 ,59118, Wambrechies,Appartement,39,2
+1028,149 000,2 483 ,38100, Grenoble (Alliés - Alpins),Appartement,60,3
+1029,188 430,2 026 ,80000, Amiens (Sud Est),Maison,93,4
+1030,200 000,3 448 ,69004, Lyon 4e (Croix Rousse Ouest),Appartement,58,2
+1031,215 000,4 216 ,69004, Lyon 4e (Croix Rousse Ouest),Appartement,51,2
+1032,245 000,3 290 ,69300, Caluire-et-Cuire (Margnolles - Rhône),Appartement,70,3
+1033,245 000,245 0,13010, Marseille 10e (Saint-Loup),Appartement,63,2
+1034,248 000,2 481 ,83000, Toulon (Haute-ville),Appartement,100,5
+1035,314 000,2 703 ,59118, Wambrechies,Maison,111,5
+1036,316 000,3 901 ,69300, Caluire-et-Cuire (Montessuy),Appartement,81,3
+1037,349 000,4 986 ,69004, Lyon 4e (Croix Rousse Est),Appartement,70,4
+1038,363 150,363 1,17000, La Rochelle (Mireuil - Saint-Maurice),Maison,145,8
+1039,369 000,369 0,69130, Écully (Centre-ville),Appartement,101,4
+1040,480 000,5 275 ,69004, Lyon 4e (Croix Rousse Est),Appartement,91,3
+1041,480 000,7 662 ,83000, Toulon (Le Mourillon - La Mitre - Fort Lamalgue),Appartement,63,3
+1042,618 000,5 708 ,83140, Six-Fours-les-Plages (Roumagnan - Talian - Audibert - Verger),Maison,108,5
+1043,650 000,7 701 ,83150, Bandol,Appartement,84,3
+1044,650 000,7 701 ,83150, Bandol,Appartement,84,3
+1045,695 000,8 235 ,83150, Bandol,Appartement,84,3
+1046,149 000,3 725 ,13009, Marseille 9e (Sainte-Marguerite),Appartement,40,2
+1047,479 000,2 071 ,74910, Usinens,Maison,231,7
+1048,659 000,7 163 ,69006, Lyon 6e (Tête d'Or - Vitton),Appartement,92,3
+1049,204 000,6 621 ,94800, Villejuif (Gripons - Pasteur),Appartement,29,2
+1050,226 000,2 671 ,31400, Toulouse (L'Ormeau - La Terrasse - La Grande Plaine),Appartement,85,4
+1051,338 000,2 939 ,01480, Jassans-Riottier,Maison,115,5
+1052,822 000,4 514 ,94000, Créteil (Bas du Mont-Mesly),Maison,173,6
+1053,849 000,9 759 ,75020, Paris 20e (Télégraphe - Pelleport - Saint-Fargeau),Appartement,87,4
+1054,1 995 000,"10,2k ",75017, Paris 17e (Pereire),Appartement,188,7
+1055,315 000,3 734 ,69660, Collonges-au-Mont-d'Or,Appartement,84,4
+1056,350 000,1 707 ,64000, Pau (Pau Nord),Maison,205,7
+1057,226 000,2 671 ,31400, Toulouse (L'Ormeau - La Terrasse - La Grande Plaine),Appartement,85,4
+1058,255 150,4 354 ,34000, Montpellier (Les Beaux Arts),Appartement,56,3
+1059,650 000,9 453 ,75017, Paris 17e (Champerret - Berthier),Appartement,66,3
+1060,78 000,1 219 ,24000, Périgueux (Centre-ville - La Gare - Saint-Martin),Appartement,64,2
+1061,266 000,3 855 ,69008, Lyon 8e (Bachut - Transvaal),Appartement,69,3
+1062,725 000,3 718 ,69300, Caluire-et-Cuire (Vassieux - Crépieux),Appartement,195,5
+1063,80 000,8 889 ,75010, Paris 10e (Porte Saint-Martin - Paradis),Appartement,9,1
+1064,185 000,3 854 ,44000, Nantes (Saint-Donatien - Tortière),Appartement,48,3
+1065,200 000,2 273 ,44800, Saint-Herblain (Nord),Appartement,88,3
+1066,213 000,3 381 ,69120, Vaulx-en-Velin (Vaulx en Velin Sud),Appartement,63,3
+1067,230 000,5 750 ,69008, Lyon 8e (Bachut - Transvaal),Appartement,40,2
+1068,287 000,6 833 ,69006, Lyon 6e (Les Brotteaux),Appartement,42,2
+1069,380 000,5 000 ,92700, Colombes (Europe),Maison,76,4
+1070,399 000,6 017 ,92400, Courbevoie (Bécon),Appartement,65,3
+1071,420 000,3 818 ,33700, Mérignac (Chemin Long),Maison,110,6
+1072,390 000,6 058 ,92500, Rueil-Malmaison (Bords de Seine),Appartement,64,3
+1073,55 000,1 019 ,02000, Laon (Montreuil - La Neuville - Marquette),Appartement,54,3
+1074,825 000,3 185 ,69003, Lyon 3e (Sans Souci - Dauphiné),Maison,259,6
+1075,229 000,4 162 ,38000, Grenoble (Eaux-Claires - Mistral),Appartement,55,2
+1076,126 000,2 520 ,21000, Dijon (Montchapet),Appartement,50,3
+1077,190 000,3 455 ,06800, Cagnes-sur-Mer (La Gare - Les Plans - Hippodrome),Appartement,55,3
+1078,790 000,7 272 ,06200, Nice (Lanterne),Appartement,109,4
+1079,858 000,9 270 ,75014, Paris 14e (Pernety),Appartement,89,4
+1080,216 000,2 919 ,69100, Villeurbanne (Léon Blum - Bon Coin),Appartement,74,2
+1081,339 000,"12,1k ",75009, Paris 9e (Lorette - Martyrs),Appartement,28,2
+1082,590 000,12k ,75003, Paris 3e (Archives),Appartement,49,2
+1083,720 000,12k ,75017, Paris 17e (Batignolles - Cardinet),Appartement,60,3
+1084,69 000,2 315 ,89100, Sens (Faubourg Saint-Didier - Clos-Le-Roi),Appartement,30,2
+1085,424 000,2 926 ,94500, Champigny-sur-Marne (Plant - Tremblay),Maison,145,5
+1086,399 000,8 489 ,06220, Vallauris (Puadon - Plateau de Bernis - Super Cannes - Le Maure),Appartement,47,2
+1087,399 000,4 433 ,69003, Lyon 3e (Voltaire - Part Dieu),Appartement,90,4
+1088,293 000,3 084 ,34500, Béziers (Perch des Moulins - Font Neuve - Terries),Les,95,4
+1089,281 000,3 088 ,34500, Béziers (Perch des Moulins - Font Neuve - Terries),Les,91,4
+1090,241 000,2 904 ,34500, Béziers (Perch des Moulins - Font Neuve - Terries),Les,83,4
+1091,256 000,3 084 ,34500, Béziers (Perch des Moulins - Font Neuve - Terries),Les,83,4
+1092,120 000,5 217 ,30240, Le Grau-du-Roi (Port Royal - Plage Rive Gauche),Appartement,23,1
+1093,216 000,4 924 ,69007, Lyon 7e (Gerland),Appartement,44,2
+1094,495 000,495 0,94100, Saint-Maur-des-Fossés (Parc de Saint-Maur),Appartement,85,4
+1095,830 000,4 256 ,06800, Cagnes-sur-Mer (Les Vallières - Le Malvan - Les Travails - La Combe),Maison,195,7
+1096,425 000,6 279 ,06300, Nice (Riquier),Appartement,65,3
+1097,1 290 000,"10,7k ",75009, Paris 9e (Trudaine - Rochechouart),Appartement,117,4
+1098,349 000,349 0,91210, Draveil (Centre-ville),Maison,100,6
+1099,62 000,561 ,58130, Guérigny,Maison,111,6
+1100,3 690 000,9 836 ,75014, Paris 14e (Montsouris - Dareau),Maison,365,7
+1101,770 000,770 0,75014, Paris 14e (Jean Moulin - Porte d'Orléans),Appartement,77,4
+1102,290 000,2 736 ,33170, Gradignan (Saint-Géry - Favard),Appartement,106,4
+1103,460 000,"10,9k ",75011, Paris 11e (Belleville - Saint-Maur),Appartement,42,2
+1104,1 150 000,"12,1k ",75014, Paris 14e (Jean Moulin - Porte d'Orléans),Appartement,95,5
+1105,682 500,"10,2k ",75019, Paris 19e (Secrétan - Jaurès),Maison,64,4
+1106,650 000,4 815 ,69250, Curis-au-Mont-d'Or,Maison,135,6
+1107,99 000,3 667 ,66420, Le Barcarès (Grande Plage - Cap de Front - Parc des Dosses),Appartement,27,2
+1108,430 000,11k ,75010, Paris 10e (Goncourt - Canal Saint-Martin),Appartement,39,2
+1109,894 400,4 707 ,33700, Mérignac (Arlac),Maison,190,8
+1110,159 000,5 100 ,33000, Bordeaux (Capucins - Saint-Michel),Appartement,30,2
+1111,180 000,1 395 ,72100, Le Mans (Monthéard),Maison,129,6
+1112,180 000,3 396 ,44230, Saint-Sébastien-sur-Loire (Ouest),Appartement,53,3
+1113,595 000,8 041 ,75014, Paris 14e (Montsouris - Dareau),Appartement,74,4
+1114,123 000,2 158 ,21600, Longvic,Appartement,57,3
+1115,259 000,259 0,06000, Nice (Cessole),Appartement,50,2
+1116,2 690 000,9 057 ,06000, Nice (Valrose),Maison,297,12
+1117,255 000,255 0,75005, Paris 5e (Monge - Jussieu),Studio,12,
+1118,185 000,3 936 ,69160, Tassin-la-Demi-Lune (Alaï),Appartement,47,2
+1119,290 000,3 919 ,69005, Lyon 5e (Champvert - Point du Jour - Jeunet),Appartement,74,3
+1120,426 000,3 381 ,31200, Toulouse (Barrière de Paris),Appartement,126,5
+1121,672 000,6 989 ,92600, Asnières-sur-Seine (Centre-ville),Appartement,93,3
+1122,161 700,1 115 ,68390, Sausheim,Appartement,145,4
+1123,319 000,3 502 ,69008, Lyon 8e (Bachut - Transvaal),Appartement,91,4
+1124,317 188,1 802 ,49124, Saint-Barthélemy-d'Anjou,Maison,176,7
+1125,169 900,1 284 ,47300, Villeneuve-sur-Lot (Sainte-Catherine),Maison,132,6
+1126,125 000,1 225 ,68100, Mulhouse (Fonderie),Appartement,102,4
+1127,230 000,2 716 ,05000, Gap,Appartement,81,3
+1128,210 000,3 320 ,54000, Nancy (Mon Désert - Jeanne d'Arc - Saurupt - Clémenceau),Maison,63,3
+1129,799 500,799 5,94700, Maisons-Alfort (Charentonneau),Maison,92,5
+1130,173 000,2 880 ,31400, Toulouse (L'Ormeau - La Terrasse - La Grande Plaine),Appartement,60,3
+1131,345 000,7 940 ,06320, Cap-d'Ail,Appartement,43,2
+1132,339 990,3 211 ,85300, Challans (Landa - Bois Soleil),Maison,101,5
+1133,56 000,1 436 ,42000, Saint-Étienne (Terrenoire),Appartement,39,2
+1134,476 000,7 023 ,06300, Nice (Riquier),Appartement,65,3
+1135,335 000,4 926 ,78340, Les Clayes-sous-Bois (Centre-ville),Maison,68,3
+1136,566 500,3 880 ,07100, Annonay (Sainte-Marie - Croze - Sacoga - Zodiaque),Maison,146,5
+1137,247 900,5 912 ,85270, Saint-Hilaire-de-Riez (Sion - Pineau),Maison,40,2
+1138,40 000,2 346 ,24000, Périgueux (Centre-ville - La Gare - Saint-Martin),Appartement,17,1
+1139,109 890,1 691 ,24600, Saint-Martin-de-Ribérac,Maison,65,3
+1140,144 000,144 0,87280, Limoges (Beaune les Mines),Maison,80,4
+1141,450 000,8 529 ,75012, Paris 12e (Bel-Air - Nord),Appartement,51,2
+1142,340 000,1 999 ,69460, Salles-Arbuissonnas-en-Beaujolais,Maison,170,6
+1143,950 000,"14,1k ",74110, Avoriaz (Avoriaz - Falaise),Appartement,68,4
+1144,71 500,1 556 ,24660, Coulounieix-Chamiers,Appartement,46,2
+1145,88 000,1 544 ,24100, Bergerac (La Madeleine - Naillac - Cavaille - Aéroport),Appartement,57,3
+1146,158 000,3 700 ,34500, Béziers (Neuf Ecluses - Gasquinoy),Maison,43,3
+1147,199 000,2 211 ,30000, Nîmes (Feuchères),Appartement,90,4
+1148,265 000,3 473 ,06200, Nice (Saint-Augustin),Appartement,76,3
+1149,233 000,3 691 ,33700, Mérignac (Capeyron),Appartement,63,3
+1150,274 000,3 558 ,34340, Marseillan (Mougères - Riac),Maison,77,3
+1151,315 000,5 000 ,74000, Annecy,Appartement,60,3
+1152,220 000,2 200 ,81000, Albi (Le Lude - Bellevue),Maison,100,4
+1153,980 000,5 078 ,75017, Paris 17e (La Fourche - Guy Moquet),Maison,193,7
+1154,525 000,4 200 ,78340, Les Clayes-sous-Bois,Maison,125,5
+1155,129 000,1 955 ,13015, Marseille 15e (La Viste),Maison,66,3
+1156,572 000,7 857 ,75014, Paris 14e (Didot - Porte de Vanves),Appartement,70,3
+1157,892 500,5 090 ,67000, Strasbourg (Centre-ville - Mairie),Appartement,167,5
+1158,159 000,2 304 ,54000, Nancy (Haussonville - Blandan - Donop),Appartement,69,3
+1159,60 700,901 ,68200, Mulhouse (Brustlein),Appartement,67,4
+1160,275 000,3 395 ,69100, Villeurbanne (Saint-Jean),Duplex,81,4
+1161,449 000,2 806 ,44300, Nantes (Nantes Erdre - La Beaujoire - Saint-Joseph de Porterie),Maison,160,8
+1162,189 000,2 277 ,93380, Pierrefitte-sur-Seine (Potier - Gare),Appartement,83,4
+1163,630 000,5 676 ,92350, Le Plessis-Robinson (Coeur de Ville),Appartement,111,4
+1164,260 000,3 714 ,33700, Mérignac (Saint-Augustin),Appartement,70,3
+1165,265 000,3 155 ,13002, Marseille 2e (La Joliette),Appartement,84,4
+1166,331 500,331 5,67140, Barr,Maison,125,5
+1167,670 000,670 0,92300, Levallois-Perret (Front de Neuilly),Appartement,66,3
+1168,499 000,8 458 ,75013, Paris 13e (Bibliothèque - Dunois - Jeanne d'Arc),Appartement,59,3
+1169,320 000,2 909 ,13015, Marseille 15e (Saint-Antoine),Maison,110,4
+1170,66 000,1 158 ,68200, Mulhouse (Haut-Poirier),Appartement,57,3
+1171,599 830,2 579 ,44000, Nantes (Ile de Nantes),Appartement,223,8
+1172,98 000,98 0,42300, Roanne (Centre-ville - Varenne),Appartement,73,3
+1173,239 000,239 0,68190, Ensisheim,Maison,123,6
+1174,4 515 000,"18,6k ",06230, Villefranche-sur-Mer,Maison,243,7
+1175,449 000,1 796 ,31380, Montjoire,Maison,250,6
+1176,419 200,6 626 ,74450, Le Grand-Bornand,Appartement,63,3
+1177,350 000,3 465 ,11590, Cuxac-d'Aude,Maison,101,5
+1178,144 000,144 0,75005, Paris 5e (Sorbonne - Quartier Latin),Appartement,11,1
+1179,162 000,3 948 ,06000, Nice (Pasteur),Appartement,41,2
+1180,100 000,1 229 ,87000, Limoges (CHU),Appartement,75,4
+1181,104 000,1 926 ,87220, Feytiat,Appartement,54,2
+1182,393 000,"11,9k ",75014, Paris 14e,Appartement,32,2
+1183,160 000,3 793 ,68300, Saint-Louis (Centre-ville),Appartement,42,2
+1184,255 000,8 600 ,06300, Nice (Le Port),Appartement,30,2
+1185,228 000,3 284 ,94400, Vitry-sur-Seine (Paul Forment - La Ferme),Appartement,67,3
+1186,149 500,1 842 ,29000, Quimper (Kermoysan),Appartement,76,5
+1187,149 000,4 582 ,06000, Nice (Baumettes),Appartement,31,2
+1188,125 000,9 750 ,75015, Paris 15e (Georges Brassens),Studio,12,
+1189,221 900,3 522 ,44300, Nantes (Nantes Erdre - La Beaujoire - Saint-Joseph de Porterie),Appartement,63,3
+1190,99 900,1 921 ,38100, Grenoble (La Capuche - Grands Boulevards),Appartement,52,3
+1191,220 000,1 864 ,38100, Grenoble (Eaux-Claires - Mistral),Appartement,118,5
+1192,649 000,9 541 ,06600, Antibes (Coeur de ville),Appartement,68,3
+1193,270 000,270 0,69490, Sarcey,Maison,121,4
+1194,399 000,"11,9k ",75010, Paris 10e (Porte Saint-Martin - Paradis),Appartement,32,2
+1195,480 700,2 639 ,85300, Challans (Landa - Bois Soleil),Maison,174,6
+1196,727 650,5 426 ,44600, Saint-Nazaire (Front de Mer - Sautron - Gavy Océanis),Appartement,129,4
+1197,168 000,1 633 ,65100, Lourdes (Soum de Lanne - Cité Rotschild),Appartement,98,4
+1198,1 260 000,4 200 ,06000, Nice (Parc Impérial - Le Piol),Maison,300,12
+1199,272 000,2 914 ,67800, Hoenheim,Appartement,93,5
+1200,65 700,939 ,63630, Saint-Germain-l'Herm,Maison,70,5
+1201,273 000,4 020 ,44000, Nantes (Saint-Donatien - Tortière),Appartement,65,3
+1202,98 200,1 006 ,68200, Mulhouse (Doller),Appartement,98,4
+1203,183 000,2 671 ,84000, Avignon (Bonaventure - Clos-des-Trams),Maison,69,4
+1204,470 000,4 434 ,69730, Genay,Maison,106,5
+1205,399 000,6 124 ,06200, Nice (Fabron),Appartement,65,3
+1206,995 000,"12,4k ",06000, Nice (Carré d'or),Appartement,80,3
+1207,25 000,347 ,58300, Decize,Appartement,72,4
+1208,45 000,549 ,58000, Nevers (Cathédrale - Jonction),Appartement,82,4
+1209,109 000,1 787 ,87220, Feytiat,Appartement,61,3
+1210,250 000,6 024 ,74170, Saint-Gervais-les-Bains,Appartement,42,2
+1211,660 000,2 067 ,31300, Toulouse (Saint-Martin du Touch),Maison,307,10
+1212,890 000,2 094 ,57000, Metz (Ancienne ville),Maison,425,9
+1213,365 000,4 803 ,06000, Nice (Parc Impérial - Le Piol),Appartement,76,3
+1214,148 000,1 762 ,64000, Pau (Pau Nord),Appartement,84,4
+1215,567 000,2 908 ,54000, Nancy (Mon Désert - Jeanne d'Arc - Saurupt - Clémenceau),Appartement,195,5
+1216,447 000,"10,4k ",75002, Paris 2e (Gaillon - Vivienne),Appartement,43,2
+1217,390 000,3 714 ,66000, Perpignan (Mas Vermeil),Maison,105,4
+1218,317 500,663 ,67140, Reichsfeld,Maison,479,16
+1219,974 000,974 0,75016, Paris 16e (Auteuil-Nord - Jasmin - Mirabeau),Appartement,71,3
+1220,313 000,313 0,75014, Paris 14e (Mouton - Duvernet),Appartement,29,2
+1221,67 100,1 065 ,42000, Saint-Étienne (Bernay - Valfuret),Appartement,63,3
+1222,172 000,2 073 ,05400, La Roche-des-Arnauds,Appartement,79,3
+1223,103 000,2 146 ,54000, Nancy (Mon Désert - Jeanne d'Arc - Saurupt - Clémenceau),Appartement,48,2
+1224,204 000,2 040 ,42300, Roanne (Clermont),Maison,100,5
